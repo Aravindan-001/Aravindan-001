@@ -5,23 +5,23 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👨‍🎓 About Me  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
 
 I am a **second-year B.Tech Information Technology student at NPR College of Engineering and Technology** with a strong interest in **data-driven technologies, cloud computing, and software development**.  
 
 Through hands-on learning and self-initiated upskilling—such as completing multiple courses on **IBM SkillsBuild, TCS iON, Infosys SpringBoard, Simplilearn, and Sololearn**—I have developed foundational knowledge in **Data Science, Cloud Fundamentals, and Analytical Thinking**.  
 
-✨ Passionate about collaborating on **innovative, technology-led ventures** and continuously learning to grow as a **Data Scientist and Developer**.  
+Passionate about collaborating on **innovative, technology-led ventures** and continuously learning to grow as a **Data Scientist and Developer**.  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" width="600px" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📬 Connect With Me  
+## <img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="30"/> Connect With Me
 
 <p align="center">
   <a href="mailto:aravindan.yourmail@gmail.com">
@@ -38,11 +38,11 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Skills  
+##  Skills  
 
-### 👨‍💻 Programming Languages  
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_BabWTDg1Kjd4so8iL1IVKVmWZ7hFwcA-Q&s" width ="30"/> Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -53,7 +53,7 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### 📚 Frameworks & Libraries  
+### <img src="https://cdn-icons-png.flaticon.com/128/16949/16949307.png" width ="30"/> Frameworks & Libraries  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -61,7 +61,7 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### 🛠 Tools & Technologies  
+### <img src="https://cdn-icons-png.flaticon.com/128/6917/6917288.png" width="30"/> Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,9 +74,9 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Certifications  
+## <img src="https://cdn-icons-png.flaticon.com/128/3000/3000777.png" width="30"/> Certifications  
 
 | # | Certification | Provider | Date | Credential ID |
 |---|---------------|----------|------|---------------|
@@ -98,9 +98,9 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
 | 16 | Data Analytics with AI | Sololearn | Jun 2025 | CC-7DW040WF |
 | 17 | Generative AI for All | Infosys Springboard | Jun 2025 | - |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight" height="160"/>
@@ -111,15 +111,15 @@ Through hands-on learning and self-initiated upskilling—such as completing mul
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight" height="160"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Graph  
+##  Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aravindan-001&label=Profile+Views&color=blue&style=flat-square" />
