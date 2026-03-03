@@ -16,8 +16,7 @@
 - 💻 Full Stack Developer building scalable web applications  
 - ☁️ Cloud Enthusiast exploring cloud-native & distributed systems  
 - 📊 Data-driven problem solver  
-- 🎯 Focused on clean architecture & performance  
-- 🤝 Open to impactful collaborations  
+- 🎯 Focused on performance & clean architecture  
 
 ---
 
@@ -31,13 +30,13 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=10" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=12" />
 
-<img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=12" />
 
 </div>
 
@@ -45,17 +44,27 @@
 
 <div align="center">
 
-<img width="400" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10" />
+<img width="420" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=12" />
+
+<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight" />
 
 </div>
 
 ---
 
-# ⚡ Contribution Activity
+# 📈 Contribution Overview
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&bg_color=000000&color=00F5FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aravindan-001&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -73,8 +82,8 @@
 
 # 🌐 Connect
 
-- 💼 LinkedIn: Add your link
-- 🌍 Portfolio: Add your link
+- 💼 LinkedIn: Add your link  
+- 🌍 Portfolio: Add your link  
 
 ---
 
