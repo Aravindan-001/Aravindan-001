@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Systems;Engineering+with+Discipline" />
 
 <br/>
 
@@ -13,13 +13,16 @@
 
 # 🚀 About Me
 
-Full Stack Developer focused on building scalable web applications and efficient backend systems.  
-Cloud Enthusiast exploring deployment, distributed systems, and production-ready architecture.
+Full Stack Developer focused on scalable applications, clean backend systems, and production-ready deployment.
+
+I build systems — not just projects.
 
 - 💻 Scalable Web Applications  
-- 🧠 Clean Backend Architecture  
-- ☁️ Cloud & Deployment  
-- 📊 Data-driven Problem Solving  
+- ⚙️ Structured Backend Architecture  
+- ☁️ Cloud & Deployment Oriented  
+- 📊 Data-Driven Engineering  
+- 🧠 Strong System Thinking  
+- 🚀 Consistent Builder  
 
 ---
 
@@ -41,7 +44,7 @@ Cloud Enthusiast exploring deployment, distributed systems, and production-ready
 
 ## 🗄️ Database
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,neo4j" />
 </div>
 
 ---
@@ -53,10 +56,21 @@ Cloud Enthusiast exploring deployment, distributed systems, and production-ready
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Engineering Environment
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,python" />
 </div>
+
+Data & Analytics:
+- Pandas  
+- NumPy  
+- Power BI  
+
+Automation:
+- n8n  
+- Zapier  
+- Notion  
+- Gemini  
 
 ---
 
@@ -82,7 +96,7 @@ Cloud Enthusiast exploring deployment, distributed systems, and production-ready
 
 ---
 
-# 📈 Contribution Overview
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -92,11 +106,11 @@ Cloud Enthusiast exploring deployment, distributed systems, and production-ready
 
 ---
 
-# 💡 Developer Mindset
+# 💡 Engineering Philosophy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Optimize.+Scale.;Design+Clean+Systems.;Build+for+Impact.;Consistency+Over+Hype." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Code.+Optimize.+Scale.;Design+Clean+Architecture.;Think+in+Systems.;Consistency+Over+Hype.;Build+For+Impact." />
 
 </div>
 
@@ -104,13 +118,14 @@ Cloud Enthusiast exploring deployment, distributed systems, and production-ready
 
 # 🌐 Connect
 
-- 💼 LinkedIn: Add your link  
-- 🌍 Portfolio: Add your link  
+📧 aravindans583224204003@nprcolleges.org  
+💼 https://www.linkedin.com/in/aravindansingaram/
 
 ---
 
 <div align="center">
 
-⭐ From <b>Aravindan Singaram</b> — Full Stack Developer & Cloud Enthusiast
+⭐ From <b>Aravindan Singaram</b> — Full Stack Developer & Cloud Enthusiast  
+Building scalable systems with discipline and clarity.
 
 </div>
