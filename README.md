@@ -16,7 +16,7 @@
 - 💻 Full Stack Developer building scalable web applications  
 - ☁️ Cloud Enthusiast exploring cloud-native & distributed systems  
 - 📊 Data-driven problem solver  
-- 🎯 Focused on performance & clean architecture  
+- 🎯 Focused on performance & clean backend architecture  
 
 ---
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,mongodb,supabase,python,git,github,vercel,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,postgres,supabase,python,postman,git,github,vercel,vscode,figma&perline=7" />
 
 </div>
 
@@ -57,14 +57,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&bg_color=000000&color=00F5FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aravindan-001&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
