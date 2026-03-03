@@ -1,7 +1,8 @@
 <div style="background-color: #000000; padding: 20px; margin: -20px;">
 
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello+Developers!+👋;I'm+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Applications;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Hello+Developers+👋;I'm+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Applications;Always+Learning+🚀" />
 </div>
 
 <div align="center">
@@ -10,6 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- SOCIALS -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aravindan-001&label=Profile%20views&color=00F5FF&style=for-the-badge)](https://github.com/Aravindan-001)
@@ -23,53 +25,64 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif' width='250'>
-
-<br/>
-
+<!-- ABOUT -->
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on **modern scalable web apps**
-- ☁️ Cloud Enthusiast exploring **DevOps & distributed systems**
-- 📊 Passionate about **data-driven decision making**
-- 🌱 Currently learning **Advanced Cloud & Backend Architectures**
-- 🤝 Open to collaborate on **impact-driven open source projects**
+- 💻 Full Stack Developer building modern web applications  
+- ☁️ Cloud Enthusiast exploring distributed systems  
+- 📊 Passionate about Data-Driven Engineering  
+- 🌱 Currently learning Advanced Backend & Cloud Architectures  
+- 🤝 Open to collaborate on impactful projects  
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🧠 Tech Stack
+
+## 💻 Programming & Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative" />
+</p>
+
+## ⚙️ Backend & Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+## ☁️ Tools & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# ⚡ Skill Proficiency
+
+<div align="center">
+
+<img src="https://progress-bar.dev/90/?title=HTML&width=600&color=00F5FF"/>
+<img src="https://progress-bar.dev/85/?title=CSS&width=600&color=8A2BE2"/>
+<img src="https://progress-bar.dev/85/?title=JavaScript&width=600&color=00F5FF"/>
+<img src="https://progress-bar.dev/80/?title=React&width=600&color=8A2BE2"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://progress-bar.dev/75/?title=Node.js&width=600&color=00F5FF"/>
+<img src="https://progress-bar.dev/80/?title=MongoDB&width=600&color=8A2BE2"/>
+<img src="https://progress-bar.dev/85/?title=Python&width=600&color=00F5FF"/>
+<img src="https://progress-bar.dev/70/?title=Cloud+Concepts&width=600&color=8A2BE2"/>
 
-## 🧠 Tech Stack & Tools
+</div>
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,reactnative" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Dev Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
-<img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&border_radius=10" />
@@ -80,9 +93,9 @@
   <img width="390" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Aravindan-001&bg_color=000000&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
