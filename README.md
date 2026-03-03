@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Systems" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 # 🚀 About Me
 
 - 💻 Full Stack Developer building scalable web applications  
-- ☁️ Cloud Enthusiast exploring modern cloud & DevOps ecosystems  
+- ☁️ Cloud Enthusiast exploring cloud-native & distributed systems  
 - 📊 Data-driven problem solver  
-- 🌱 Consistently learning & shipping production-ready systems  
+- 🎯 Focused on clean architecture & performance  
 - 🤝 Open to impactful collaborations  
 
 ---
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=10" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=10" />
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=10&border_radius=10" />
+<img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -45,25 +45,7 @@
 
 <div align="center">
 
-<img width="390" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=algolia&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-# 📈 Profile Insights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravindan-001&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aravindan-001&theme=tokyonight&utcOffset=5.5" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight" />
+<img width="400" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10" />
 
 </div>
 
@@ -79,10 +61,25 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aravindan-001/Aravindan-001/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Optimize.+Scale.;Think+in+Systems.;Build+for+Impact.;Consistency+Beats+Motivation." />
+
+</div>
+
+---
+
+# 🌐 Connect
+
+- 💼 LinkedIn: Add your link
+- 🌍 Portfolio: Add your link
+
+---
+
+<div align="center">
+
+⭐ From <b>Aravindan Singaram</b> — Full Stack Developer & Cloud Enthusiast
 
 </div>
