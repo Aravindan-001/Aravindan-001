@@ -13,24 +13,54 @@
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer building scalable web applications  
-- ☁️ Cloud Enthusiast exploring cloud-native & distributed systems  
-- 📊 Data-driven problem solver  
-- 🎯 Focused on performance & clean backend architecture  
+Full Stack Developer focused on building scalable web applications and efficient backend systems.  
+Cloud Enthusiast exploring deployment, distributed systems, and production-ready architecture.
+
+- 💻 Scalable Web Applications  
+- 🧠 Clean Backend Architecture  
+- ☁️ Cloud & Deployment  
+- 📊 Data-driven Problem Solving  
 
 ---
 
 # 🧠 Tech Stack
 
+## 🎨 Frontend
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,postgres,supabase,python,postman,git,github,vercel,vscode,figma&perline=7" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative" />
 </div>
 
 ---
 
-# 📊 GitHub Analytics Dashboard
+## ⚙️ Backend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+---
+
+## 🗄️ Database
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+</div>
+
+---
+
+## ☁️ Cloud & Deployment
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vercel,github" />
+</div>
+
+---
+
+## 🛠️ Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,python" />
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -62,11 +92,11 @@
 
 ---
 
-# 💡 Developer Philosophy
+# 💡 Developer Mindset
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Optimize.+Scale.;Think+in+Systems.;Build+for+Impact.;Consistency+Beats+Motivation." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Code.+Optimize.+Scale.;Design+Clean+Systems.;Build+for+Impact.;Consistency+Over+Hype." />
 
 </div>
 
