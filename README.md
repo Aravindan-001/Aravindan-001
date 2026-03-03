@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Systems;Engineering+with+Discipline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;AI-Augmented+Engineer;Building+Scalable+Systems" />
 
 <br/>
 
@@ -13,16 +13,16 @@
 
 # 🚀 About Me
 
-Full Stack Developer focused on scalable applications, clean backend systems, and production-ready deployment.
+Full Stack Developer focused on building scalable applications, clean backend systems, and production-ready deployments.
 
 I build systems — not just projects.
 
 - 💻 Scalable Web Applications  
 - ⚙️ Structured Backend Architecture  
-- ☁️ Cloud & Deployment Oriented  
+- ☁️ Cloud-Oriented Development  
 - 📊 Data-Driven Engineering  
-- 🧠 Strong System Thinking  
-- 🚀 Consistent Builder  
+- 🤖 AI-Augmented Workflow  
+- 🚀 Consistent Execution  
 
 ---
 
@@ -42,7 +42,7 @@ I build systems — not just projects.
 
 ---
 
-## 🗄️ Database
+## 🗄️ Databases
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,neo4j" />
 </div>
@@ -56,21 +56,50 @@ I build systems — not just projects.
 
 ---
 
-## 🛠️ Tools & Engineering Environment
+## 🛠️ Developer Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,python" />
+<img src="https://cdn.simpleicons.org/git/00F5FF" height="40" alt="GitLens"/>
 </div>
 
-Data & Analytics:
-- Pandas  
-- NumPy  
-- Power BI  
+Git Workflow:
+- GitLens (Advanced Git Insights in VS Code)
 
-Automation:
-- n8n  
-- Zapier  
-- Notion  
-- Gemini  
+---
+
+## 📊 Data & Analytics
+<div align="center">
+<img src="https://cdn.simpleicons.org/pandas/00F5FF" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy/00F5FF" height="40"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
+</div>
+
+- Data Cleaning  
+- Dashboarding & Visualization  
+- Business Intelligence Reporting  
+
+---
+
+## 🤖 AI-Augmented Engineering
+
+AI-assisted workflow for:
+
+- Architecture Planning  
+- Code Optimization  
+- Debugging & Refactoring  
+- Rapid Prototyping  
+- Intelligent Automation  
+
+---
+
+## ⚡ Automation & Productivity
+<div align="center">
+<img src="https://cdn.simpleicons.org/n8n/00F5FF" height="40"/>
+<img src="https://cdn.simpleicons.org/zapier/00F5FF" height="40"/>
+<img src="https://cdn.simpleicons.org/notion/00F5FF" height="40"/>
+<img src="https://cdn.simpleicons.org/github/00F5FF" height="40" alt="GitHub Copilot"/>
+<img src="https://cdn.simpleicons.org/google/00F5FF" height="40" alt="Gemini"/>
+</div>
 
 ---
 
@@ -78,9 +107,9 @@ Automation:
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=12" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=14" />
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=12" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=14" />
 
 </div>
 
@@ -88,7 +117,7 @@ Automation:
 
 <div align="center">
 
-<img width="420" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=12" />
+<img width="420" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=14" />
 
 <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight" />
 
@@ -110,7 +139,7 @@ Automation:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Code.+Optimize.+Scale.;Design+Clean+Architecture.;Think+in+Systems.;Consistency+Over+Hype.;Build+For+Impact." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Code.+Optimize.+Scale.;Design+Clean+Systems.;Think+in+Architecture.;AI-Augmented+Engineering.;Consistency+Over+Hype." />
 
 </div>
 
@@ -119,13 +148,15 @@ Automation:
 # 🌐 Connect
 
 📧 aravindans583224204003@nprcolleges.org  
-💼 https://www.linkedin.com/in/aravindansingaram/
+💼 https://www.linkedin.com/in/aravindansingaram  
 
 ---
 
 <div align="center">
 
-⭐ From <b>Aravindan Singaram</b> — Full Stack Developer & Cloud Enthusiast  
-Building scalable systems with discipline and clarity.
+⭐ From <b>Aravindan Singaram</b>  
+Full Stack Developer • Cloud Enthusiast • AI-Augmented Engineer  
+
+Building scalable systems with discipline, clarity, and intelligent tooling.
 
 </div>
