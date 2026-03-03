@@ -1,8 +1,8 @@
 <div style="background-color: #000000; padding: 20px; margin: -20px;">
 
-<!-- HERO -->
+<!-- ================= HERO ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hello+Developers+👋;I'm+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Systems;Always+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hello+Developers+👋;I'm+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;Building+Scalable+Applications;Always+Shipping+🚀" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- SOCIAL -->
+<!-- ================= SOCIAL ================= -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aravindan-001&label=Profile%20views&color=00F5FF&style=for-the-badge)](https://github.com/Aravindan-001)
@@ -25,18 +25,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ================= ABOUT ================= -->
 ## 🚀 About Me
 
-- 💻 Full Stack Developer  
-- ☁️ Cloud Enthusiast  
-- ⚡ Building scalable applications  
+- 💻 Full Stack Developer building modern scalable web apps  
+- ☁️ Cloud Enthusiast exploring distributed systems & DevOps  
 - 📊 Data-driven problem solver  
-- 🤝 Open Source Contributor  
+- 🌱 Constantly learning & shipping production-ready projects  
+- 🤝 Open to impactful collaborations  
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ================= TECH STACK ================= -->
 # 🧠 Tech Stack
 
 <p align="center">
@@ -47,31 +49,43 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ================= ANALYTICS ================= -->
 # 📊 Advanced GitHub Analytics
 
 <div align="center">
 
-<!-- Main Stats -->
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
 
-<!-- Top Languages -->
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=10&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img width="390" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="390" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=10" />
 
-<!-- Trophy Stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+<!-- ================= SUMMARY CARDS ================= -->
+# 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravindan-001&theme=tokyonight" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aravindan-001&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aravindan-001&theme=tokyonight" />
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+# ⚡ Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Aravindan-001&bg_color=000000&color=00F5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
@@ -79,18 +93,11 @@
 
 ---
 
-# 🔥 Contribution Snake Animation
+<!-- ================= SNAKE ================= -->
+# 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-# 📌 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aravindan-001&theme=tokyonight&layout=compact" />
 </div>
 
 </div>
