@@ -148,7 +148,7 @@ AI-assisted workflow for:
 # 🌐 Connect
 
 📧 aravindans583224204003@nprcolleges.org  
-💼 https://www.linkedin.com/in/aravindansingaram/
+💼 https://www.linkedin.com/in/aravindansingaram  
 
 ---
 
