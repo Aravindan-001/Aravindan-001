@@ -2,120 +2,168 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Aravindan Singaram</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Full Stack Developer | Cloud Enthusiast | B.Tech IT</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a developer who enjoys building scalable applications, clean backend systems,  
+    and intuitive digital experiences.
+  </p>
+
+  <p>
+    I focus on turning ideas into reliable products — from responsive UI to efficient backend APIs.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <a href="mailto:aravindans583224204003@nprcolleges.org"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://www.linkedin.com/in/aravindansingaram"><img src="https://img.shields.io/badge/💼_LinkedIn-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
-  
+
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
+<a href="https://github.com/Aravindan-001">
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+</a>
 
-  <a href="https://github.com/Midhun-Nk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/aravindansingaram">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+</a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=flat-square&color=blue" alt="Profile Visit"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
+---
 
-## 🛠️ Skills
+# 🛠️ Skills
+
 <p align="center">
+
 <table>
+
 <tr>
+
 <td width="50%" align="center">
+
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+
 </td>
 
-
-
 </tr>
+
 <tr>
+
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>☁️ Cloud & Deployment</h3>
+
+<img src="https://skillicons.dev/icons?i=vercel,github" />
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45"/>
+
+</td>
+
+</tr>
+
 </table>
+
 </p>
 
+---
 
-
-
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://streak-stats.demolab.com?user=Aravindan-001&theme=dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## ❤️ Support Me
+# 📈 Contribution Activity
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+• Full Stack Development  
+• Cloud Deployment  
+• Data Analytics (Power BI)  
+• Building scalable web systems  
+
+---
+
+# 📫 Contact
+
+📧 aravindans583224204003@nprcolleges.org  
+💼 https://www.linkedin.com/in/aravindansingaram  
+
+---
+
+⭐ From **Aravindan Singaram**
