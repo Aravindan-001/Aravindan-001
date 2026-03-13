@@ -1,162 +1,121 @@
-<!-- ================= HERO ================= -->
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Midhun NK</strong>
+</h1>
+
+<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Midhun-Nk">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/mike.devlogs">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/midhun-nk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/mike_devlogs">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
+
+<br clear="all" />
+
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hello+Everyone!;I+am+Aravindan+Singaram;Full+Stack+Developer;Cloud+Enthusiast;AI-Augmented+Engineer;Building+Scalable+Systems" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aravindan-001&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
-
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-# 🚀 About Me
+## ❤️ Support Me
 
-Full Stack Developer focused on building scalable applications, clean backend systems, and production-ready deployments.
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
 
-I build systems — not just projects.
-
-- 💻 Scalable Web Applications  
-- ⚙️ Structured Backend Architecture  
-- ☁️ Cloud-Oriented Development  
-- 📊 Data-Driven Engineering  
-- 🤖 AI-Augmented Workflow  
-- 🚀 Consistent Execution  
-
----
-
-# 🧠 Tech Stack
-
-## 🎨 Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative" />
-</div>
-
----
-
-## ⚙️ Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</div>
-
----
-
-## 🗄️ Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,neo4j" />
-</div>
-
----
-
-## ☁️ Cloud & Deployment
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vercel,github" />
-</div>
-
----
-
-## 🛠️ Developer Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,python" />
-<img src="https://cdn.simpleicons.org/git/00F5FF" height="40" alt="GitLens"/>
-</div>
-
-Git Workflow:
-- GitLens (Advanced Git Insights in VS Code)
-
----
-
-## 📊 Data & Analytics
-<div align="center">
-<img src="https://cdn.simpleicons.org/pandas/00F5FF" height="40"/>
-<img src="https://cdn.simpleicons.org/numpy/00F5FF" height="40"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
-</div>
-
-- Data Cleaning  
-- Dashboarding & Visualization  
-- Business Intelligence Reporting  
-
----
-
-## 🤖 AI-Augmented Engineering
-
-AI-assisted workflow for:
-
-- Architecture Planning  
-- Code Optimization  
-- Debugging & Refactoring  
-- Rapid Prototyping  
-- Intelligent Automation  
-
----
-
-## ⚡ Automation & Productivity
-<div align="center">
-<img src="https://cdn.simpleicons.org/n8n/00F5FF" height="40"/>
-<img src="https://cdn.simpleicons.org/zapier/00F5FF" height="40"/>
-<img src="https://cdn.simpleicons.org/notion/00F5FF" height="40"/>
-<img src="https://cdn.simpleicons.org/github/00F5FF" height="40" alt="GitHub Copilot"/>
-<img src="https://cdn.simpleicons.org/google/00F5FF" height="40" alt="Gemini"/>
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=14" />
-
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&langs_count=8&border_radius=14" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="420" src="https://streak-stats.demolab.com/?user=Aravindan-001&theme=tokyonight&border_radius=14" />
-
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&bg_color=000000&color=00F5FF&line=0A66C2&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 💡 Engineering Philosophy
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Code.+Optimize.+Scale.;Design+Clean+Systems.;Think+in+Architecture.;AI-Augmented+Engineering.;Consistency+Over+Hype." />
-
-</div>
-
----
-
-# 🌐 Connect
-
-📧 aravindans583224204003@nprcolleges.org  
-💼 https://www.linkedin.com/in/aravindansingaram  
-
----
-
-<div align="center">
-
-⭐ From <b>Aravindan Singaram</b>  
-Full Stack Developer • Cloud Enthusiast • AI-Augmented Engineer  
-
-Building scalable systems with discipline, clarity, and intelligent tooling.
-
-</div>
