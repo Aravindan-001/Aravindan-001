@@ -1,169 +1,138 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Aravindan Singaram</strong>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0F172A&fontColor=ffffff&text=Aravindan%20Singaram&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20React%20Native%20Developer%20•%20Aspiring%20Data%20Engineer%20•%20UI/UX%20Designer&descSize=16&descColor=94A3B8&descAlignY=63&animation=fadeIn" />
 
-<h3>Full Stack Developer | Cloud Enthusiast | B.Tech IT</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Crafting+Backend+Systems+%26+APIs;React+Native+%7C+Supabase+%7C+Node.js;Exploring+Data+Engineering;Designing+Modern+User+Experiences" />
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a developer who enjoys building scalable applications, clean backend systems,  
-    and intuitive digital experiences.
-  </p>
-
-  <p>
-    I focus on turning ideas into reliable products — from responsive UI to efficient backend APIs.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:aravindans583224204003@nprcolleges.org"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
-    <a href="https://www.linkedin.com/in/aravindansingaram"><img src="https://img.shields.io/badge/💼_LinkedIn-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-
-<p align="left">
-
-<a href="https://github.com/Aravindan-001">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-</a>
+<br/>
 
 <a href="https://www.linkedin.com/in/aravindansingaram">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:aravindans583224205003@nprcolleges.org">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=flat-square&color=blue" alt="Profile Visit"/>
+<a href="https://github.com/Aravind-001">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br clear="all" />
-
 ---
 
-# 🛠️ Skills
+# > whoami
 
-<p align="center">
+```bash
+Name         = Aravindan Singaram
+Role         = Full Stack Developer
+Secondary    = React Native Developer
+Future Goal  = Data Engineer
+Education    = B.Tech Information Technology
+College      = NPR College of Engineering and Technology
+Duration     = 2024 - 2028
+Certification= Neo4j Certified Professional
 
-<table>
+Innovative IT student focused on building scalable full stack applications, mobile apps, backend systems, APIs, and data-driven platforms.
 
-<tr>
+Current focus:
 
-<td width="50%" align="center">
-
-<h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🌐 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>⚙️ Backend</h3>
-
+Full Stack Development
+Backend Architecture
+Mobile App Development
+Database Engineering
+System Design
+Data Engineering
+> tech-stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+Mobile
+<img src="https://skillicons.dev/icons?i=react" />
+Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+BaaS
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
+> certifications
+- Neo4j Certified Professional
+- Supabase Backend Systems
+- Relational Database Design
+- API Architecture
+- System Design Fundamentals
+> featured-projects
+SkillMarket AI
+type: Skill Intelligence Platform
+stack:
+  - React Native
+  - Supabase
+  - PostgreSQL
+  - RLS
 
-</td>
+features:
+  - Tracks trending market skills
+  - Personalized skill recommendations
+  - Secure relational schema
+  - Scalable architecture
+CampusIQ
+type: Placement Readiness System
+stack:
+  - React Native
+  - Supabase
+  - NLP
 
-<td width="50%" align="center">
+features:
+  - Resume analysis
+  - Skill gap identification
+  - Placement readiness score
+  - Company eligibility prediction
+  - Admin analytics dashboard
+> github-stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind-001&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-001&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-001&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+> contribution-graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind-001&theme=tokyo-night&hide_border=true"/> </div>
+> current-focus.yaml
+learning:
+  - Advanced Backend Systems
+  - Data Engineering
+  - Scalable Architectures
+  - Cloud Infrastructure
 
-<h3>🗄️ Databases</h3>
+building:
+  - SkillMarket AI
+  - CampusIQ
+  - Personal Portfolio
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+exploring:
+  - Graph Databases
+  - Automation with n8n
+  - Analytics Systems
+  - API Optimization
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>☁️ Cloud & Deployment</h3>
-
-<img src="https://skillicons.dev/icons?i=vercel,github" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🧰 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
+open_to:
+  - Internships
+  - Freelance Projects
+  - Open Source Collaboration
+> achievements
+- Built CampusIQ end-to-end as solo developer
+- Built SkillMarket AI as solo developer
+- Mentored juniors in React Native & Supabase
+- Active open-source contributor
+- Maintains project documentation & code reviews
+- Coordinated departmental tech events
+> connect
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aravindan-001&theme=dark&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true" />
+📧 aravindans583224205003@nprcolleges.org
+📱 7339559072
+🔗 www.linkedin.com/in/aravindansingaram
+💻 github.com/Aravind-001
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-• Full Stack Development  
-• Cloud Deployment  
-• Data Analytics (Power BI)  
-• Building scalable web systems  
-
----
-
-# 📫 Contact
-
-📧 aravindans583224204003@nprcolleges.org  
-💼 https://www.linkedin.com/in/aravindansingaram  
-
----
-
-⭐ From **Aravindan Singaram**
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div> ```
