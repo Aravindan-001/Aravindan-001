@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Aravind-001">
+<a href="https://github.com/Aravindan-001">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -65,7 +65,7 @@ Current focus:
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### BaaS
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
@@ -133,11 +133,11 @@ features:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-001&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -147,7 +147,7 @@ features:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind-001&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -199,9 +199,9 @@ open_to:
 <div align="center">
 
 📧 aravindans583224205003@nprcolleges.org  
-📱 7339559072  
+📱 +91 7339559072  
 🔗 www.linkedin.com/in/aravindansingaram  
-💻 github.com/Aravind-001  
+💻 github.com/Aravindan-001  
 
 </div>
 
