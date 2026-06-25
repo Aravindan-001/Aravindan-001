@@ -25,49 +25,75 @@
 # > whoami
 
 ```bash
-Name         = Aravindan Singaram
-Role         = Full Stack Developer
-Secondary    = React Native Developer
-Future Goal  = Data Engineer
-Education    = B.Tech Information Technology
-College      = NPR College of Engineering and Technology
-Duration     = 2024 - 2028
-Certification= Neo4j Certified Professional
+Name          = Aravindan Singaram
+Role          = Full Stack Developer
+Secondary     = React Native Developer
+Future Goal   = Aspiring Data Engineer
+Education     = B.Tech Information Technology
+College       = NPR College of Engineering and Technology
+Duration      = 2024 - 2028
+Certification = Neo4j Certified Professional
+```
 
-Innovative IT student focused on building scalable full stack applications, mobile apps, backend systems, APIs, and data-driven platforms.
+Innovative IT student focused on building scalable full stack applications, backend systems, APIs, mobile experiences, and data-driven platforms.
 
 Current focus:
 
-Full Stack Development
-Backend Architecture
-Mobile App Development
-Database Engineering
-System Design
-Data Engineering
-> tech-stack
+- Full Stack Development
+- Backend Architecture
+- Mobile App Development
+- Database Engineering
+- System Design
+- Data Engineering
+
+---
+
+# > tech-stack
+
 <div align="center">
-Languages
+
+### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-Frontend
+
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-Mobile
+
+### Mobile
 <img src="https://skillicons.dev/icons?i=react" />
-Backend
+
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-BaaS
+
+### BaaS
 <img src="https://skillicons.dev/icons?i=supabase,firebase" />
-Databases
+
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
-> certifications
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+# > certifications
+
+```yaml
 - Neo4j Certified Professional
 - Supabase Backend Systems
 - Relational Database Design
 - API Architecture
 - System Design Fundamentals
-> featured-projects
-SkillMarket AI
+```
+
+---
+
+# > featured-projects
+
+## SkillMarket AI
+
+```yaml
 type: Skill Intelligence Platform
 stack:
   - React Native
@@ -80,7 +106,13 @@ features:
   - Personalized skill recommendations
   - Secure relational schema
   - Scalable architecture
-CampusIQ
+```
+
+---
+
+## CampusIQ
+
+```yaml
 type: Placement Readiness System
 stack:
   - React Native
@@ -93,11 +125,37 @@ features:
   - Placement readiness score
   - Company eligibility prediction
   - Admin analytics dashboard
-> github-stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind-001&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-001&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-001&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-> contribution-graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind-001&theme=tokyo-night&hide_border=true"/> </div>
-> current-focus.yaml
+```
+
+---
+
+# > github-stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind-001&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind-001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# > contribution-graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind-001&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# > current-focus.yaml
+
+```yaml
 learning:
   - Advanced Backend Systems
   - Data Engineering
@@ -119,20 +177,38 @@ open_to:
   - Internships
   - Freelance Projects
   - Open Source Collaboration
-> achievements
+```
+
+---
+
+# > achievements
+
+```yaml
 - Built CampusIQ end-to-end as solo developer
-- Built SkillMarket AI as solo developer
+- Built SkillMarket AI end-to-end as solo developer
 - Mentored juniors in React Native & Supabase
 - Active open-source contributor
-- Maintains project documentation & code reviews
+- Maintains project documentation & peer code reviews
 - Coordinated departmental tech events
-> connect
+```
+
+---
+
+# > connect
+
 <div align="center">
 
-📧 aravindans583224205003@nprcolleges.org
-📱 7339559072
-🔗 www.linkedin.com/in/aravindansingaram
-💻 github.com/Aravind-001
+📧 aravindans583224205003@nprcolleges.org  
+📱 7339559072  
+🔗 www.linkedin.com/in/aravindansingaram  
+💻 github.com/Aravind-001  
 
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div> ```
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
