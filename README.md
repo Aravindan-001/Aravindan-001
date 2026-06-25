@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0F172A&fontColor=ffffff&text=Aravindan%20Singaram&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20React%20Native%20Developer%20•%20Aspiring%20Data%20Engineer%20•%20UI/UX%20Designer&descSize=16&descColor=94A3B8&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0F172A&fontColor=ffffff&text=Aravindan%20Singaram&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20React%20Native%20Developer%20•%20Aspiring%20Data%20Engineer&descSize=16&descColor=94A3B8&descAlignY=63&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Crafting+Backend+Systems+%26+APIs;React+Native+%7C+Supabase+%7C+Node.js;Exploring+Data+Engineering;Designing+Modern+User+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Designing+Production+Ready+Systems;Backend+Architecture+%7C+API+Engineering;Mobile+Apps+%7C+Automation+%7C+System+Design;Exploring+Data+Engineering" />
 
 <br/>
 
@@ -27,7 +27,8 @@
 ```bash
 Name          = Aravindan Singaram
 Role          = Full Stack Developer
-Secondary     = React Native Developer
+Secondary     = Backend Engineer
+Mobile        = React Native Developer
 Future Goal   = Aspiring Data Engineer
 Education     = B.Tech Information Technology
 College       = NPR College of Engineering and Technology
@@ -35,57 +36,86 @@ Duration      = 2024 - 2028
 Certification = Neo4j Certified Professional
 ```
 
-Innovative IT student focused on building scalable full stack applications, backend systems, APIs, mobile experiences, and data-driven platforms.
-
-Current focus:
-
-- Full Stack Development
-- Backend Architecture
-- Mobile App Development
-- Database Engineering
-- System Design
-- Data Engineering
+Innovative IT student focused on building scalable applications, backend systems, APIs, mobile experiences, and production-ready architectures.
 
 ---
 
-# > tech-stack
+# > technical-skillsets
+
+## Full Stack Engineering
+- Full Stack Web Development
+- Backend Development
+- Frontend Development
+- Mobile App Development
+- E-commerce Platform Development
+- Deployment & Production Readiness
+
+---
+
+## Backend Systems
+- REST API Design & Integration
+- Authentication & Authorization Systems
+- Queue Processing & Background Jobs
+- Webhook Architecture & Event Handling
+- Payment Gateway Integration (Razorpay)
+- Order Management Systems
+- Inventory / Stock Management Logic
+- File Processing & PDF Handling
+
+---
+
+## Database Engineering
+- Database Design & Management
+- Relational Schema Design
+- SQL Query Optimization
+- ORM Concepts
+- PostgreSQL
+- MySQL
+- Neo4j
+
+---
+
+## Reliability Engineering
+- Production Debugging & Bug Fixing
+- Logging & Audit Trail Implementation
+- Error Handling & Reliability Engineering
+- System Observability & Monitoring
+- Performance Optimization
+
+---
+
+## Software Architecture
+- Software Architecture & System Design
+- API Testing & Validation
+- Workflow Automation
+- AI-Assisted Development
+- Technical Problem Solving
+
+---
+
+# > tools-and-technologies
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js,ts,tailwind" />
 
 ### Mobile
-<img src="https://skillicons.dev/icons?i=react" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### BaaS
-<img src="https://skillicons.dev/icons?i=supabase,firebase,appwrite" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+
+### BaaS / Cloud
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
-
----
-
-# > certifications
-
-```yaml
-- Neo4j Certified Professional
-- Supabase Backend Systems
-- Relational Database Design
-- API Architecture
-- System Design Fundamentals
-```
 
 ---
 
@@ -102,10 +132,10 @@ stack:
   - RLS
 
 features:
-  - Tracks trending market skills
+  - Tracks trending job market skills
   - Personalized skill recommendations
-  - Secure relational schema
-  - Scalable architecture
+  - Secure relational architecture
+  - Scalable backend systems
 ```
 
 ---
@@ -121,10 +151,23 @@ stack:
 
 features:
   - Resume analysis
-  - Skill gap identification
   - Placement readiness score
+  - Skill gap analysis
   - Company eligibility prediction
-  - Admin analytics dashboard
+```
+
+---
+
+# > achievements
+
+```yaml
+- Built CampusIQ end-to-end as solo developer
+- Built SkillMarket AI end-to-end as solo developer
+- Mentored juniors on React Native & Supabase
+- Active open-source contributor
+- Maintains technical documentation
+- Handles peer code reviews
+- Coordinated departmental technical events
 ```
 
 ---
@@ -135,7 +178,7 @@ features:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -159,7 +202,7 @@ features:
 learning:
   - Advanced Backend Systems
   - Data Engineering
-  - Scalable Architectures
+  - Distributed Systems
   - Cloud Infrastructure
 
 building:
@@ -169,27 +212,14 @@ building:
 
 exploring:
   - Graph Databases
-  - Automation with n8n
+  - Workflow Automation
   - Analytics Systems
-  - API Optimization
+  - Production Monitoring
 
 open_to:
   - Internships
   - Freelance Projects
   - Open Source Collaboration
-```
-
----
-
-# > achievements
-
-```yaml
-- Built CampusIQ end-to-end as solo developer
-- Built SkillMarket AI end-to-end as solo developer
-- Mentored juniors in React Native & Supabase
-- Active open-source contributor
-- Maintains project documentation & peer code reviews
-- Coordinated departmental tech events
 ```
 
 ---
@@ -201,7 +231,7 @@ open_to:
 📧 aravindans583224205003@nprcolleges.org  
 📱 +91 7339559072  
 🔗 www.linkedin.com/in/aravindansingaram  
-💻 github.com/Aravindan-001  
+💻 github.com/Aravindan-001
 
 </div>
 
