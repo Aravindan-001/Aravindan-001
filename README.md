@@ -1,18 +1,17 @@
-````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0F172A,100:1E293B&text=ARAVINDAN%20SINGARAM&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Mobile%20Developer&descSize=18&descColor=CBD5E1&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,100:1E293B&text=Aravindan%20Singaram&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Mobile%20Developer&descAlignY=62&descColor=CBD5E1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production+Grade+Applications;Designing+Scalable+Backend+Systems;Developing+Modern+E-Commerce+Platforms;Creating+Mobile+Experiences;Exploring+Distributed+Systems+and+Data+Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production+Grade+Applications;Designing+Scalable+Backend+Systems;Developing+Modern+E-Commerce+Platforms;Creating+Cross+Platform+Mobile+Apps;Exploring+Distributed+Systems+and+Data+Engineering"/>
 
-<br>
+<br/>
 
 <a href="https://github.com/Aravindan-001">
 <img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=for-the-badge&color=0ea5e9"/>
 </a>
 
 <a href="https://github.com/Aravindan-001?tab=followers">
-<img src="https://img.shields.io/github/followers/Aravindan-001?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Aravindan-001?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aravindansingaram">
@@ -27,92 +26,80 @@
 
 ---
 
-# 👨‍💻 About Me
-
-<table>
-<tr>
-
-<td width="50%">
+# 👋 About Me
 
 ```yaml
-Name: Aravindan Singaram
+name: Aravindan Singaram
 
-Role:
+role:
   - Full Stack Developer
   - Backend Engineer
-  - Mobile Developer
+  - React Native Developer
 
-Education:
-  Degree: B.Tech Information Technology
-  College: NPR College of Engineering and Technology
-  Duration: 2024 - 2028
+education:
+  degree: B.Tech Information Technology
+  institution: NPR College of Engineering and Technology
+  duration: 2024 - 2028
 
-Certification:
+certifications:
   - Neo4j Certified Professional
-````
+  - MongoDB Basics for Students
+  - GitHub Copilot Prompt Engineering
 
-</td>
-
-<td width="50%">
-
-```yaml
-Current Focus:
+interests:
+  - Backend Architecture
   - Distributed Systems
   - Data Engineering
   - Cloud Infrastructure
-  - System Design
-
-Open To:
-  - Internships
-  - Freelance Projects
-  - Startup Collaborations
-  - Open Source
 ```
 
-</td>
-
-</tr>
-</table>
-
-Building production-grade web applications, e-commerce platforms, mobile experiences, and scalable backend systems from concept to deployment.
+I build scalable web applications, production-grade e-commerce systems, mobile applications, backend platforms, and modern developer experiences using contemporary technologies and deployment-ready architectures.
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+### Backend
 
-### Backend Development
-
+<p>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
+</p>
 
-### Frontend Development
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind"/>
+</p>
 
 ### Mobile Development
 
+<p>
 <img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
 
 React Native (Expo)
 
 ### Databases
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis"/>
+</p>
 
 Neo4j • Meilisearch
 
 ### BaaS & Cloud
 
+<p>
 <img src="https://skillicons.dev/icons?i=supabase,firebase"/>
+</p>
 
 ### DevOps & Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
+</p>
 
-Vercel • Nginx • Filament • Razorpay
-
-</div>
+Vercel • Nginx • Filament • Razorpay • Supervisor
 
 ---
 
@@ -121,168 +108,164 @@ Vercel • Nginx • Filament • Razorpay
 ```mermaid
 graph TD
 
-A[Users] --> B[Frontend Layer]
+Client[Users]
 
-B --> C[Next.js]
-B --> D[React Native]
-B --> E[Flutter]
+Client --> Web[Next.js Applications]
+Client --> Mobile[React Native & Flutter]
 
-C --> F[Backend APIs]
-D --> F
-E --> F
+Web --> API[REST APIs]
+Mobile --> API
 
-F --> G[Laravel]
-F --> H[Node.js]
+API --> Laravel[Laravel Services]
+API --> Node[Node Services]
 
-G --> I[MySQL]
-G --> J[Redis]
-G --> K[Neo4j]
+Laravel --> MySQL[(MySQL)]
+Laravel --> Redis[(Redis)]
+Laravel --> Neo4j[(Neo4j)]
 
-H --> L[PostgreSQL]
+Node --> PostgreSQL[(PostgreSQL)]
 
-I --> M[Docker]
-J --> M
-L --> M
+MySQL --> Docker[Docker Infrastructure]
+Redis --> Docker
+PostgreSQL --> Docker
 
-M --> N[Vercel]
-M --> O[Nginx]
+Docker --> Vercel[Vercel Deployments]
+Docker --> Nginx[Nginx]
 
-N --> P[Production]
-O --> P
+Nginx --> Production[Production Systems]
+Vercel --> Production
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
 ## 💎 Svaraa Jewels
 
-Production-grade jewelry e-commerce platform.
+Production-grade jewelry e-commerce platform built using Laravel.
 
-```yaml
-Tech Stack:
-  - Laravel 12
-  - MySQL
-  - Redis
-  - Filament 5
-  - Docker
-  - Razorpay
+**Technology Stack**
 
-Features:
-  - Product Variants
-  - Order Management
-  - Inventory Systems
-  - Queue Processing
-  - Gift Cards
-  - PDF Product Imports
+- Laravel 12
+- MySQL 8
+- Redis
+- Filament 5
+- Razorpay
+- Docker
+- Meilisearch
+- Supervisor
+
+**Highlights**
+
+- Product variants and inventory systems
+- Queue-based order processing
+- Webhook-driven payment confirmations
+- Coupon and gift-card workflows
+- PDF product imports
+- SEO optimization
+- Production deployment architecture
+
+Repository:
+
+```text
+github.com/nexoralabs-website/svaraa-jewels
 ```
-
-🔗 [https://github.com/nexoralabs-website/svaraa-jewels](https://github.com/nexoralabs-website/svaraa-jewels)
-
-</td>
-
-<td width="50%">
-
-## 🌐 Nexora Labs
-
-Premium software agency website.
-
-```yaml
-Tech Stack:
-  - Next.js 15
-  - React 19
-  - TypeScript
-  - Supabase
-
-Features:
-  - SEO Optimization
-  - Structured Data
-  - Premium Animations
-  - Lead Management
-  - Dynamic Metadata
-```
-
-🔗 [https://github.com/nexoralabs-website/nexoralabs-website](https://github.com/nexoralabs-website/nexoralabs-website)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📈 SkillMarket AI
-
-```yaml
-Platform:
-  Type: Skill Intelligence
-
-Stack:
-  - React Native
-  - Supabase
-  - PostgreSQL
-
-Features:
-  - Job Market Analytics
-  - Personalized Recommendations
-  - Secure RLS Architecture
-```
-
-</td>
-
-<td width="50%">
-
-## 🎓 CampusIQ
-
-```yaml
-Platform:
-  Type: Placement Intelligence
-
-Stack:
-  - React Native
-  - Supabase
-  - NLP
-
-Features:
-  - Resume Analysis
-  - Skill Gap Detection
-  - Placement Readiness Score
-```
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
+## 🌐 Nexora Labs
+
+Premium agency website built using Next.js.
+
+**Technology Stack**
+
+- Next.js 15
+- React 19
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Framer Motion
+- Vercel
+
+**Highlights**
+
+- Server Components
+- SEO optimization
+- Structured Data
+- Dynamic Metadata
+- Premium interactions
+- Lead management systems
+
+Repository:
+
+```text
+github.com/nexoralabs-website/nexoralabs-website
+```
+
+---
+
+## 📈 SkillMarket AI
+
+Skill intelligence platform.
+
+**Stack**
+
+- React Native
+- Supabase
+- PostgreSQL
+
+**Features**
+
+- Market trend analysis
+- Personalized recommendations
+- Secure Row Level Security
+- Analytics-driven insights
+
+---
+
+## 🎓 CampusIQ
+
+Placement readiness platform.
+
+**Stack**
+
+- React Native
+- Supabase
+- NLP Systems
+
+**Features**
+
+- Resume analysis
+- Skill-gap identification
+- Placement readiness scoring
+- Company eligibility predictions
+
+---
 # 🎯 Current Focus
 
 ```yaml
-Learning:
+learning:
   - Distributed Systems
-  - Advanced Backend Engineering
   - Data Engineering
   - Cloud Infrastructure
+  - Advanced Backend Architecture
 
-Building:
-  - Nexora Labs
+building:
   - Svaraa Jewels
+  - Nexora Labs
   - AI Products
 
-Exploring:
+exploring:
   - Graph Databases
-  - Analytics Systems
   - Workflow Automation
+  - Analytics Systems
   - Production Monitoring
+
+open_to:
+  - Software Engineering Internships
+  - Freelance Projects
+  - Startup Collaborations
+  - Open Source Contributions
 ```
 
 ---
@@ -291,9 +274,9 @@ Exploring:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -301,7 +284,17 @@ Exploring:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -317,17 +310,54 @@ Exploring:
 
 ---
 
-# 🏆 Highlights
+# 📋 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravindan-001&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aravindan-001&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aravindan-001&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aravindan-001&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🏅 Professional Highlights
 
 ```yaml
-Achievements:
-  - Built Svaraa Jewels as a solo full-stack developer
-  - Built Nexora Labs independently
-  - Developed CampusIQ end-to-end
-  - Built SkillMarket AI architecture
+highlights:
+
   - Neo4j Certified Professional
-  - Mentored juniors on Laravel and React Native
-  - Experience deploying production applications
+
+  - Built Svaraa Jewels end-to-end as a solo full-stack developer
+
+  - Developed Nexora Labs independently
+
+  - Built CampusIQ and SkillMarket AI from scratch
+
+  - Experience with production deployments and debugging
+
+  - Mentored peers on Laravel, React Native and Supabase
+
+  - Active contributor on GitHub and open-source projects
 ```
 
 ---
@@ -352,13 +382,18 @@ Achievements:
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<br>
+</div>
 
-### Building scalable systems, one commit at a time.
+---
+
+<div align="center">
+
+### Building scalable applications and production-ready systems.
 
 </div>
-```
