@@ -1,146 +1,165 @@
 ````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0F172A&fontColor=ffffff&text=Aravindan%20Singaram&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20React%20Native%20Developer&descSize=16&descColor=94A3B8&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:1E293B&text=ARAVINDAN%20SINGARAM&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Mobile%20Developer&descSize=18&descColor=CBD5E1&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production+Grade+Applications;Designing+Scalable+Backend+Systems;E-Commerce+Platforms+%7C+API+Engineering;Mobile+Apps+%7C+Automation+%7C+System+Design;Exploring+Distributed+Systems+and+Data+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+Applications;Designing+Scalable+Backend+Architectures;Creating+Modern+Mobile+Experiences;Developing+E-Commerce+Platforms;Learning+Distributed+Systems+and+Data+Engineering"/>
 
 <br/>
+
+<a href="https://github.com/Aravindan-001">
+<img src="https://komarev.com/ghpvc/?username=Aravindan-001&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Aravindan-001?tab=followers">
+<img src="https://img.shields.io/github/followers/Aravindan-001?style=for-the-badge&logo=github&color=1E293B"/>
+</a>
 
 <a href="https://www.linkedin.com/in/aravindansingaram">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aravindansingaram@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aravindan-001">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# > whoami
+# ⚡ System Information
 
-```bash
-Name          = Aravindan Singaram
-Role          = Full Stack Developer
-Speciality    = Backend Engineering
-Mobile        = React Native & Flutter Developer
-Education     = B.Tech Information Technology
-College       = NPR College of Engineering and Technology
-Duration      = 2024 - 2028
-Certification = Neo4j Certified Professional
-````
+```yaml
+name: Aravindan Singaram
+role: Full Stack Developer
 
-Building production-grade web applications, e-commerce systems, mobile apps, admin dashboards, and scalable backend architectures from concept to deployment.
+specializations:
+  - Backend Engineering
+  - Mobile Development
+  - E-Commerce Systems
+  - API Architecture
 
----
+education:
+  degree: B.Tech Information Technology
+  college: NPR College of Engineering and Technology
+  duration: 2024 - 2028
 
-# > technical-skillsets
+certifications:
+  - Neo4j Certified Professional
 
-## Full Stack Engineering
-
-* Full Stack Web Development
-* Backend Architecture
-* Mobile App Development
-* E-Commerce Platform Development
-* SaaS Product Development
-* Deployment & Production Engineering
+currently_learning:
+  - Distributed Systems
+  - Data Engineering
+  - Cloud Infrastructure
+```
 
 ---
 
-## Backend Systems
+# 🧠 About Me
 
-* REST API Design & Development
-* Authentication & RBAC Systems
-* Queue Processing & Background Jobs
-* Webhook Architecture
-* Payment Gateway Integration (Razorpay)
-* Order & Inventory Management Systems
-* PDF Processing & Bulk Import Pipelines
-* Admin Panel Automation (Filament)
+```typescript
+class AravindanSingaram {
+    role = "Full Stack Developer";
+
+    backend = [
+        "Laravel",
+        "Node.js",
+        "REST APIs",
+        "Queue Systems",
+        "Webhooks",
+        "RBAC"
+    ];
+
+    frontend = [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "TailwindCSS"
+    ];
+
+    mobile = [
+        "React Native",
+        "Flutter"
+    ];
+
+    databases = [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Neo4j",
+        "Redis"
+    ];
+
+    currentFocus() {
+        return [
+            "Building scalable systems",
+            "Distributed architecture",
+            "Production engineering",
+            "Data engineering"
+        ];
+    }
+}
+```
 
 ---
 
-## Database Engineering
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* Neo4j
-* Redis
-* Database Schema Design
-* Query Optimization
-* ORM Architecture
-
----
-
-## Reliability Engineering
-
-* Production Debugging
-* Error Monitoring
-* Logging & Audit Trails
-* Security Headers & CSP
-* Performance Optimization
-* Containerized Development Workflows
-
----
-
-## Software Architecture
-
-* System Design
-* Workflow Automation
-* AI-Assisted Development
-* Technical Problem Solving
-* Scalable Software Architecture
-
----
-
-# > tools-and-technologies
+# 🛠 Technology Stack
 
 <div align="center">
 
-### Backend
+## Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
 
-### Frontend
+---
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js,ts,tailwind" />
+## Frontend Development
 
-### Mobile
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=flutter" />
+---
 
-React Native (Expo)
+## Mobile Development
 
-### Databases
+<img src="https://skillicons.dev/icons?i=flutter"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+### React Native (Expo)
 
-Neo4j • Meilisearch
+---
 
-### BaaS / Cloud
+## Databases
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis"/>
 
-### DevOps & Tools
+### Neo4j • Meilisearch
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+---
 
-Filament • Razorpay • Vercel • Nginx
+## Backend Services
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase"/>
+
+---
+
+## DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
+
+### Razorpay • Filament • Vercel • Nginx
 
 </div>
 
 ---
 
-# > featured-projects
+# 🚀 Featured Projects
 
-## Svaraa Jewels
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 💎 Svaraa Jewels
 
 ```yaml
 type: Production E-Commerce Platform
@@ -152,23 +171,23 @@ stack:
   - Filament 5
   - Razorpay
   - Docker
-  - Meilisearch
 
 features:
-  - Product catalog & variants
-  - Order management system
-  - Coupon & gift card workflows
-  - Webhook-based payments
-  - Queue processing
-  - Bulk PDF product imports
-  - Inventory management
+  - Product Variants
+  - Order Management
+  - Inventory Systems
+  - Queue Processing
+  - PDF Imports
+  - Webhook Payments
 ```
 
 🔗 https://github.com/nexoralabs-website/svaraa-jewels
 
----
+</td>
 
-## Nexora Labs
+<td width="50%">
+
+## 🌐 Nexora Labs
 
 ```yaml
 type: Premium Agency Website
@@ -178,23 +197,26 @@ stack:
   - React 19
   - TypeScript
   - Supabase
-  - Tailwind CSS
-  - Framer Motion
 
 features:
-  - Multi-section architecture
-  - SEO optimization
-  - JSON-LD structured data
-  - Lead capture systems
-  - Premium animations
-  - Production deployment
+  - SEO Optimization
+  - Premium Animations
+  - Lead Management
+  - Server Components
+  - Structured Data
 ```
 
 🔗 https://github.com/nexoralabs-website/nexoralabs-website
 
----
+</td>
 
-## SkillMarket AI
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📈 SkillMarket AI
 
 ```yaml
 type: Skill Intelligence Platform
@@ -205,18 +227,20 @@ stack:
   - PostgreSQL
 
 features:
-  - Job market trend analysis
-  - Personalized recommendations
-  - Secure RLS architecture
-  - Scalable backend systems
+  - Skill Analytics
+  - Personalized Learning
+  - RLS Security
+  - Market Insights
 ```
 
----
+</td>
 
-## CampusIQ
+<td width="50%">
+
+## 🎓 CampusIQ
 
 ```yaml
-type: AI Placement Readiness System
+type: AI Placement Platform
 
 stack:
   - React Native
@@ -224,43 +248,99 @@ stack:
   - NLP
 
 features:
-  - Resume skill extraction
-  - Placement readiness scoring
-  - Skill gap detection
-  - Company eligibility prediction
+  - Resume Analysis
+  - Skill Gap Detection
+  - Readiness Score
+  - Eligibility Prediction
 ```
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# > achievements
-
-```yaml
-- Built Svaraa Jewels end-to-end as solo full stack developer
-- Built Nexora Labs marketing platform independently
-- Built CampusIQ and SkillMarket AI from scratch
-- Neo4j Certified Professional
-- Mentored juniors on Laravel, React Native & Supabase
-- Maintains technical documentation and collaborative workflows
-- Experience shipping production-ready applications
-```
-
----
-
-# > github-stats
+# 📊 Engineering Focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+```mermaid
+mindmap
+  root((Engineering))
+    Backend
+      Laravel
+      APIs
+      Queues
+      Webhooks
+      RBAC
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
+    Mobile
+      React Native
+      Flutter
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
+    Data
+      PostgreSQL
+      Neo4j
+      Redis
+
+    Systems
+      Docker
+      Nginx
+      Monitoring
+      Optimization
+```
 
 </div>
 
 ---
 
-# > contribution-graph
+# 🏆 Achievements
+
+```yaml
+achievements:
+
+  - Built Svaraa Jewels as solo full-stack developer
+
+  - Built Nexora Labs independently
+
+  - Developed CampusIQ end-to-end
+
+  - Built SkillMarket AI architecture
+
+  - Neo4j Certified Professional
+
+  - Mentored juniors on Laravel and React Native
+
+  - Maintains technical documentation
+
+  - Production deployment experience
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
 
 <div align="center">
 
@@ -270,13 +350,13 @@ features:
 
 ---
 
-# > current-focus.yaml
+# ⚙ Current Focus
 
 ```yaml
 learning:
   - Distributed Systems
-  - Advanced Backend Architecture
   - Data Engineering
+  - Backend Architecture
   - Cloud Infrastructure
 
 building:
@@ -286,11 +366,11 @@ building:
 
 exploring:
   - Graph Databases
-  - Workflow Automation
   - Analytics Systems
+  - Workflow Automation
   - Production Monitoring
 
-open_to:
+available_for:
   - Internships
   - Freelance Projects
   - Startup Collaborations
@@ -298,14 +378,21 @@ open_to:
 
 ---
 
-# > connect
+# 🌐 Connect With Me
 
 <div align="center">
 
-📧 [aravindansingaram@gmail.com](mailto:aravindansingaram@gmail.com)
-📱 +91 7339559072
-🔗 https://www.linkedin.com/in/aravindansingaram
-💻 https://github.com/Aravindan-001
+<a href="mailto:aravindansingaram@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aravindansingaram">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aravindan-001">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -313,7 +400,11 @@ open_to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br><br>
+
+### ⭐ Building scalable systems, one commit at a time.
 
 </div>
-```
+````
