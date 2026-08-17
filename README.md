@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,100:1E293B&text=Aravindan%20Singaram&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Mobile%20Developer&descAlignY=62&descColor=CBD5E1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,100:1E293B&text=Aravindan%20Singaram&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Cloud%20%26%20Data%20Engineering%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20AI%20%26%20Agent%20Engineering&descAlignY=62&descColor=CBD5E1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production+Grade+Applications;Designing+Scalable+Backend+Systems;Developing+Modern+E-Commerce+Platforms;Creating+Cross+Platform+Mobile+Apps;Exploring+Distributed+Systems+and+Data+Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Ready+Backend+Systems;Designing+Data+Pipelines+and+RAG+Systems;Engineering+AI+Agents+with+LangGraph;Deploying+Containerised+Applications;Exploring+Cloud%2C+Data+and+Distributed+Systems"/>
 
 <br/>
 
@@ -28,244 +28,343 @@
 
 # 👋 About Me
 
-```yaml
-name: Aravindan Singaram
+I'm **Aravindan Singaram**, a 5th-semester **B.Tech Information Technology** student focused on building backend systems, data pipelines, AI agents, and cloud-deployed applications.
 
-role:
-  - Full Stack Developer
-  - Backend Engineer
-  - React Native Developer
+My current engineering focus sits at the intersection of **Data Engineering + Backend Engineering + Cloud/DevOps + AI/Agent Engineering**.
+
+I enjoy taking a system from **data ingestion and database design → APIs → AI workflows → testing → containerisation → production deployment**.
+
+name: Aravindan Singaram
 
 education:
   degree: B.Tech Information Technology
   institution: NPR College of Engineering and Technology
   duration: 2024 - 2028
 
+focus:
+  - Data Engineering
+  - Backend Engineering
+  - Cloud & DevOps
+  - AI & Agent Engineering
+
+currently_building:
+  - NORA — Agency Operations, Knowledge Graph & AI Agent Platform
+  - Data pipelines
+  - AI-integrated backend systems
+
 certifications:
   - Neo4j Certified Professional
   - MongoDB Basics for Students
-  - GitHub Copilot Prompt Engineering
+  - Prompt Engineering with GitHub Copilot
+````
+ 🧠 What I Build
 
-interests:
-  - Backend Architecture
-  - Distributed Systems
-  - Data Engineering
-  - Cloud Infrastructure
-```
-
-I build scalable web applications, production-grade e-commerce systems, mobile applications, backend platforms, and modern developer experiences using contemporary technologies and deployment-ready architectures.
+* **Backend systems** with FastAPI, Laravel, Node.js and layered architectures
+* **Data platforms** using PostgreSQL, pgvector, MongoDB, Neo4j and Redis
+* **ETL / ELT pipelines** with webhook ingestion, validation, transformation and AI classification
+* **RAG systems** with vector retrieval, context construction and grounded LLM responses
+* **AI agents** using LangGraph, tool execution, intent routing and confirmation-gated actions
+* **Production applications** containerised with Docker and deployed using Nginx, Render, AWS S3 and Cloudflare
+* **Cross-platform applications** using SvelteKit, React Native and Flutter
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,dart,c"/>
+</p>
+
+Python • SQL • TypeScript • JavaScript • PHP 8.2+ • Dart • C
+
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,express,flask"/>
 </p>
 
-### Frontend
+FastAPI • Laravel 12 • Node.js • Express.js • Flask • REST APIs • SQLAlchemy 2.x • Pydantic • Pydantic Settings
+
+Router → Service → Repository Architecture • RBAC • Supervisor Queue Processing
+
+### Data & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,neo4j"/>
 </p>
 
-### Mobile Development
+PostgreSQL • pgvector • MySQL 8 • MongoDB Atlas • Neo4j • Redis • Supabase • Firebase
+
+### Data Engineering
+
+ETL / ELT • Data Ingestion • Data Transformation & Validation • Data Modelling
+
+API-based Ingestion • Webhook-driven Workflows • Knowledge Indexing Pipelines • Vector Embeddings
+
+### AI & Agents
+
+LangGraph • LangChain / LCEL • RAG • pgvector Retrieval • OpenAI • Gemini
+
+Prompt Engineering • Agentic Tool Layer • Structured Generation
+
+Conversational Memory • Intent Routing • Confirmation-gated AI Actions • n8n
+
+### Frontend & Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=svelte,nextjs,react,ts,tailwind,vite,flutter"/>
 </p>
 
-React Native (Expo)
+SvelteKit • Svelte 5 • Next.js 15 • React 19 • React Native Expo
 
-### Databases
+Flutter • Tailwind CSS • shadcn/ui • Framer Motion • Vite
+
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,cloudflare,git,github"/>
 </p>
 
-Neo4j • Meilisearch
+Docker • Render • AWS S3 • Cloudflare DNS/CDN/Proxy
 
-### BaaS & Cloud
+Nginx • Supervisor • Git/GitHub • Deployment Verification • Security Headers/CSP
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase"/>
-</p>
+### Testing
 
-### DevOps & Tools
+Pytest • HTTPX • Integration Testing • API Testing
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
-</p>
-
-Vercel • Nginx • Filament • Razorpay • Supervisor
-
----
-
-# 🏗 Engineering Ecosystem
-
-```mermaid
-graph TD
-
-Client[Users]
-
-Client --> Web[Next.js Applications]
-Client --> Mobile[React Native & Flutter]
-
-Web --> API[REST APIs]
-Mobile --> API
-
-API --> Laravel[Laravel Services]
-API --> Node[Node Services]
-
-Laravel --> MySQL[(MySQL)]
-Laravel --> Redis[(Redis)]
-Laravel --> Neo4j[(Neo4j)]
-
-Node --> PostgreSQL[(PostgreSQL)]
-
-MySQL --> Docker[Docker Infrastructure]
-Redis --> Docker
-PostgreSQL --> Docker
-
-Docker --> Vercel[Vercel Deployments]
-Docker --> Nginx[Nginx]
-
-Nginx --> Production[Production Systems]
-Vercel --> Production
-```
+npm run check • npm run build
 
 ---
 
 # 🚀 Featured Projects
 
-## 💎 Svaraa Jewels
+## 🤖 NORA — Agency Operations, Knowledge Graph & AI Agent Platform
 
-Production-grade jewelry e-commerce platform built using Laravel.
+**2026 · FastAPI + PostgreSQL + pgvector + LangGraph + SvelteKit**
 
-**Technology Stack**
+A full-stack agency operations platform connecting structured business data with conversational AI and semantic knowledge retrieval.
 
-- Laravel 12
-- MySQL 8
-- Redis
-- Filament 5
-- Razorpay
-- Docker
-- Meilisearch
-- Supervisor
+### Engineering Highlights
 
-**Highlights**
+* Modelled **Clients → Leads → Projects → Tasks** as PostgreSQL relational entities with foreign keys, cascading deletion and Alembic migrations.
+* Built a layered **Router → Service → Repository** backend using FastAPI, SQLAlchemy and Pydantic.
+* Expanded the integration test suite from **134 to 303 passing Pytest/HTTPX tests**.
+* Integrated **pgvector** for entity-aware semantic retrieval, relevance scoring and idempotent knowledge re-indexing.
+* Implemented a complete **RAG pipeline**:
 
-- Product variants and inventory systems
-- Queue-based order processing
-- Webhook-driven payment confirmations
-- Coupon and gift-card workflows
-- PDF product imports
-- SEO optimization
-- Production deployment architecture
+```text
+Knowledge Retrieval
+        ↓
+Entity-aware Context Construction
+        ↓
+Structured LLM Generation
+        ↓
+Grounded Response
+        ↓
+Source Metadata
+```
+
+* Built a **LangGraph StateGraph** with three major branches:
+
+  * Knowledge / RAG
+  * Action / Tool
+  * General LLM
+* Implemented AI-driven CRUD tools with **confirmation-gated mutations**.
+* Implemented bounded multi-turn conversational memory.
+* Added persistent **PostgreSQL-backed session storage** with an in-memory fallback.
+* Implemented entity-aware follow-up resolution for references such as:
+
+  * "second project"
+  * "that client"
+* Built the ORBIT conversational interface using **SvelteKit + Svelte 5**.
+* Optimised graph rendering using O(1) Map-based edge lookups.
+
+---
+
+## 💎 Svaraa Jewels — Production E-commerce Platform
+
+**2025 · Laravel 12 + MySQL 8 + Redis + Docker + Nginx + Render**
+
+Production-oriented jewellery e-commerce platform with payment processing, background jobs, administration, search and cloud deployment.
+
+### Engineering Highlights
+
+* Built product catalogue, cart, order management, inventory, coupons and reviews.
+* Implemented **Razorpay webhook-based payment confirmation**.
+* Added invoice generation and background order processing.
+* Used **Redis + Supervisor** for queue-based background processing.
+* Containerised the application stack using **Docker**.
+* Configured **Nginx** for production deployment.
+* Deployed the application to **Render**.
+* Integrated **AWS S3** for file storage.
+* Integrated **Cloudflare** for DNS, CDN, proxy and web security.
+* Implemented **Security Headers and CSP**.
+* Debugged production environment and filesystem/storage issues.
+* Built a **Filament 5** administration system.
+* Added bulk upload and PDF catalogue import workflows.
+* Implemented full-text search using **Laravel Scout + Meilisearch**.
+* Designed and optimised MySQL database queries.
 
 Repository:
 
-```text
-github.com/nexoralabs-website/svaraa-jewels
-```
+`github.com/nexoralabs-website/svaraa-jewels`
 
 ---
 
-## 🌐 Nexora Labs
+## 📊 WhatsApp Lead Engagement & CRM Data Pipeline
 
-Premium agency website built using Next.js.
+**2025 · n8n + Supabase/PostgreSQL + WhatsApp API + Gemini + React**
 
-**Technology Stack**
+An event-driven ETL and AI classification pipeline for automated lead engagement and CRM management.
 
-- Next.js 15
-- React 19
-- TypeScript
-- Tailwind CSS
-- Supabase
-- Framer Motion
-- Vercel
-
-**Highlights**
-
-- Server Components
-- SEO optimization
-- Structured Data
-- Dynamic Metadata
-- Premium interactions
-- Lead management systems
-
-Repository:
+### Architecture
 
 ```text
-github.com/nexoralabs-website/nexoralabs-website
+Lead Capture
+     ↓
+Webhook Ingestion
+     ↓
+Data Normalisation
+     ↓
+Validation
+     ↓
+PostgreSQL / Supabase
+     ↓
+Gemini AI Classification
+     ↓
+Lead Scoring
+     ↓
+CRM Update
+     ↓
+React Dashboard
 ```
 
----
+### Highlights
 
-## 📈 SkillMarket AI
-
-Skill intelligence platform.
-
-**Stack**
-
-- React Native
-- Supabase
-- PostgreSQL
-
-**Features**
-
-- Market trend analysis
-- Personalized recommendations
-- Secure Row Level Security
-- Analytics-driven insights
+* Designed the ingestion and normalisation layer between webhooks and PostgreSQL.
+* Implemented schema validation before database writes.
+* Integrated Gemini for automated reply analysis and lead classification.
+* Implemented lead scoring workflows.
+* Built event-triggered CRM updates and alerts.
+* Built a React dashboard for monitoring lead activity.
 
 ---
 
-## 🎓 CampusIQ
+## 📱 Shri Vishwakarma Matrimony — Flutter Mobile App
 
-Placement readiness platform.
+**2025 · Flutter + Dart + PHP + MySQL + REST APIs**
 
-**Stack**
+Production-oriented matrimonial application featuring:
 
-- React Native
-- Supabase
-- NLP Systems
+* Profile management
+* Search and filtering
+* Membership tiers
+* Premium workflows
+* Chat restrictions
+* Interest workflows
+* Tamil / English bilingual UI
 
-**Features**
+### Engineering
 
-- Resume analysis
-- Skill-gap identification
-- Placement readiness scoring
-- Company eligibility predictions
+* Applied **Provider + Repository Pattern**.
+* Built PHP/MySQL REST APIs.
+* Implemented JWT authentication.
+* Implemented business logic and RBAC.
+* Built Material 3 based UI.
 
 ---
+
+## 🎓 CampusIQ — AI-Powered Placement Readiness System
+
+**2024 · React Native Expo + Supabase + PostgreSQL**
+
+An AI-assisted placement readiness platform.
+
+### Features
+
+* NLP-based Placement Readiness Score **0–100**
+* Resume skill extraction
+* Skill-gap detection
+* Company eligibility prediction
+* Admin analytics dashboard
+* Supabase Authentication
+* PostgreSQL Row Level Security
+* Supabase Storage
+* Realtime synchronisation
+
+---
+
+## 📈 SkillMarket AI — Skill Intelligence Platform
+
+**2024 · React Native Expo + Supabase/PostgreSQL**
+
+A mobile platform focused on personalised job-market skill recommendations.
+
+### Engineering
+
+* Designed a **15-table PostgreSQL schema**.
+* Implemented Row Level Security.
+* Enforced user-level data isolation.
+* Built personalised skill recommendation workflows.
+
+---
+
+## 📊 Firebase / GA4 / Google Ads Analytics Integration
+
+**2024 · Firebase Analytics + Crashlytics + GA4 + Google Ads**
+
+Implemented mobile analytics and conversion tracking workflows.
+
+Tracked events including:
+
+`first_open` • `session_start` • `view_item` • `generate_lead` • `post_property` • `plan_purchase`
+
+Analysed conversion funnels for marketing optimisation.
+
+---
+
+# 🏆 Achievements & Leadership
+
+* **Smart India Hackathon** — selected project; developed an AI and automation-based solution addressing a real-world problem statement.
+* Participated in multiple hackathons involving AI classification, mobile application development, backend API engineering and workflow automation.
+* Mentored junior students on **React Native, Laravel and Supabase** integration.
+* **Neo4j Certified Professional**.
+* Active GitHub developer maintaining project repositories, technical documentation and collaborative development workflows.
+
+---
+
 # 🎯 Current Focus
 
 ```yaml
 learning:
-  - Distributed Systems
-  - Data Engineering
+  - Advanced Data Engineering
   - Cloud Infrastructure
+  - Distributed Systems
   - Advanced Backend Architecture
+  - AI Agent Systems
 
 building:
-  - Svaraa Jewels
-  - Nexora Labs
-  - AI Products
+  - NORA
+  - Data Pipelines
+  - AI-integrated Backend Systems
+  - Cloud-deployed Applications
 
 exploring:
-  - Graph Databases
+  - Vector Databases
+  - Knowledge Graphs
+  - Event-driven Architecture
   - Workflow Automation
-  - Analytics Systems
-  - Production Monitoring
+  - Observability
+  - Production Infrastructure
 
-open_to:
-  - Software Engineering Internships
-  - Freelance Projects
-  - Startup Collaborations
-  - Open Source Contributions
+target_roles:
+  - Data Engineering
+  - Backend Engineering
+  - Cloud / DevOps
+  - AI Engineering
 ```
 
 ---
@@ -310,59 +409,7 @@ open_to:
 
 ---
 
-# 📋 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravindan-001&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aravindan-001&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aravindan-001&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aravindan-001&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aravindan-001&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 🏅 Professional Highlights
-
-```yaml
-highlights:
-
-  - Neo4j Certified Professional
-
-  - Built Svaraa Jewels end-to-end as a solo full-stack developer
-
-  - Developed Nexora Labs independently
-
-  - Built CampusIQ and SkillMarket AI from scratch
-
-  - Experience with production deployments and debugging
-
-  - Mentored peers on Laravel, React Native and Supabase
-
-  - Active contributor on GitHub and open-source projects
-```
-
----
-
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -394,6 +441,7 @@ highlights:
 
 <div align="center">
 
-### Building scalable applications and production-ready systems.
+### Building scalable data, backend and AI systems — one production-ready component at a time.
 
 </div>
+```
