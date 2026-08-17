@@ -52,20 +52,17 @@ currently_building:
   - Data pipelines
   - AI-integrated backend systems
 
-certifications:
-  - Neo4j Certified Professional
-  - MongoDB Basics for Students
-  - Prompt Engineering with GitHub Copilot
-````
- 🧠 What I Build
+---
 
-* **Backend systems** with FastAPI, Laravel, Node.js and layered architectures
-* **Data platforms** using PostgreSQL, pgvector, MongoDB, Neo4j and Redis
-* **ETL / ELT pipelines** with webhook ingestion, validation, transformation and AI classification
-* **RAG systems** with vector retrieval, context construction and grounded LLM responses
-* **AI agents** using LangGraph, tool execution, intent routing and confirmation-gated actions
-* **Production applications** containerised with Docker and deployed using Nginx, Render, AWS S3 and Cloudflare
-* **Cross-platform applications** using SvelteKit, React Native and Flutter
+# 🧠 What I Build
+
+- **Backend systems** with FastAPI, Laravel, Node.js and layered architectures
+- **Data platforms** using PostgreSQL, pgvector, MongoDB, Neo4j and Redis
+- **ETL / ELT pipelines** with webhook ingestion, validation, transformation and AI classification
+- **RAG systems** with vector retrieval, context construction and grounded LLM responses
+- **AI agents** using LangGraph, tool execution, intent routing and confirmation-gated actions
+- **Production applications** containerised with Docker and deployed using Nginx, Render, AWS S3 and Cloudflare
+- **Cross-platform applications** using SvelteKit, React Native and Flutter
 
 ---
 
@@ -149,13 +146,12 @@ A full-stack agency operations platform connecting structured business data with
 
 ### Engineering Highlights
 
-* Modelled **Clients → Leads → Projects → Tasks** as PostgreSQL relational entities with foreign keys, cascading deletion and Alembic migrations.
-* Built a layered **Router → Service → Repository** backend using FastAPI, SQLAlchemy and Pydantic.
-* Expanded the integration test suite from **134 to 303 passing Pytest/HTTPX tests**.
-* Integrated **pgvector** for entity-aware semantic retrieval, relevance scoring and idempotent knowledge re-indexing.
-* Implemented a complete **RAG pipeline**:
+- Modelled **Clients → Leads → Projects → Tasks** as PostgreSQL relational entities with foreign keys, cascading deletion and Alembic migrations.
+- Built a layered **Router → Service → Repository** backend using FastAPI, SQLAlchemy and Pydantic.
+- Expanded the integration test suite from **134 to 303 passing Pytest/HTTPX tests**.
+- Integrated **pgvector** for entity-aware semantic retrieval, relevance scoring and idempotent knowledge re-indexing.
+- Implemented a complete **RAG pipeline**:
 
-```text
 Knowledge Retrieval
         ↓
 Entity-aware Context Construction
@@ -165,22 +161,19 @@ Structured LLM Generation
 Grounded Response
         ↓
 Source Metadata
-```
 
-* Built a **LangGraph StateGraph** with three major branches:
-
-  * Knowledge / RAG
-  * Action / Tool
-  * General LLM
-* Implemented AI-driven CRUD tools with **confirmation-gated mutations**.
-* Implemented bounded multi-turn conversational memory.
-* Added persistent **PostgreSQL-backed session storage** with an in-memory fallback.
-* Implemented entity-aware follow-up resolution for references such as:
-
-  * "second project"
-  * "that client"
-* Built the ORBIT conversational interface using **SvelteKit + Svelte 5**.
-* Optimised graph rendering using O(1) Map-based edge lookups.
+- Built a **LangGraph StateGraph** with three major branches:
+  - Knowledge / RAG
+  - Action / Tool
+  - General LLM
+- Implemented AI-driven CRUD tools with **confirmation-gated mutations**.
+- Implemented bounded multi-turn conversational memory.
+- Added persistent **PostgreSQL-backed session storage** with an in-memory fallback.
+- Implemented entity-aware follow-up resolution for references such as:
+  - "second project"
+  - "that client"
+- Built the ORBIT conversational interface using **SvelteKit + Svelte 5**.
+- Optimised graph rendering using O(1) Map-based edge lookups.
 
 ---
 
@@ -192,27 +185,26 @@ Production-oriented jewellery e-commerce platform with payment processing, backg
 
 ### Engineering Highlights
 
-* Built product catalogue, cart, order management, inventory, coupons and reviews.
-* Implemented **Razorpay webhook-based payment confirmation**.
-* Added invoice generation and background order processing.
-* Used **Redis + Supervisor** for queue-based background processing.
-* Containerised the application stack using **Docker**.
-* Configured **Nginx** for production deployment.
-* Deployed the application to **Render**.
-* Integrated **AWS S3** for file storage.
-* Integrated **Cloudflare** for DNS, CDN, proxy and web security.
-* Implemented **Security Headers and CSP**.
-* Debugged production environment and filesystem/storage issues.
-* Built a **Filament 5** administration system.
-* Added bulk upload and PDF catalogue import workflows.
-* Implemented full-text search using **Laravel Scout + Meilisearch**.
-* Designed and optimised MySQL database queries.
+- Built product catalogue, cart, order management, inventory, coupons and reviews.
+- Implemented **Razorpay webhook-based payment confirmation**.
+- Added invoice generation and background order processing.
+- Used **Redis + Supervisor** for queue-based background processing.
+- Containerised the application stack using **Docker**.
+- Configured **Nginx** for production deployment.
+- Deployed the application to **Render**.
+- Integrated **AWS S3** for file storage.
+- Integrated **Cloudflare** for DNS, CDN, proxy and web security.
+- Implemented **Security Headers and CSP**.
+- Debugged production environment and filesystem/storage issues.
+- Built a **Filament 5** administration system.
+- Added bulk upload and PDF catalogue import workflows.
+- Implemented full-text search using **Laravel Scout + Meilisearch**.
+- Designed and optimised MySQL database queries.
 
 Repository:
 
 `github.com/nexoralabs-website/svaraa-jewels`
 
----
 
 ## 📊 WhatsApp Lead Engagement & CRM Data Pipeline
 
@@ -222,7 +214,6 @@ An event-driven ETL and AI classification pipeline for automated lead engagement
 
 ### Architecture
 
-```text
 Lead Capture
      ↓
 Webhook Ingestion
@@ -240,16 +231,15 @@ Lead Scoring
 CRM Update
      ↓
 React Dashboard
-```
 
 ### Highlights
 
-* Designed the ingestion and normalisation layer between webhooks and PostgreSQL.
-* Implemented schema validation before database writes.
-* Integrated Gemini for automated reply analysis and lead classification.
-* Implemented lead scoring workflows.
-* Built event-triggered CRM updates and alerts.
-* Built a React dashboard for monitoring lead activity.
+- Designed the ingestion and normalisation layer between webhooks and PostgreSQL.
+- Implemented schema validation before database writes.
+- Integrated Gemini for automated reply analysis and lead classification.
+- Implemented lead scoring workflows.
+- Built event-triggered CRM updates and alerts.
+- Built a React dashboard for monitoring lead activity.
 
 ---
 
@@ -259,21 +249,21 @@ React Dashboard
 
 Production-oriented matrimonial application featuring:
 
-* Profile management
-* Search and filtering
-* Membership tiers
-* Premium workflows
-* Chat restrictions
-* Interest workflows
-* Tamil / English bilingual UI
+- Profile management
+- Search and filtering
+- Membership tiers
+- Premium workflows
+- Chat restrictions
+- Interest workflows
+- Tamil / English bilingual UI
 
 ### Engineering
 
-* Applied **Provider + Repository Pattern**.
-* Built PHP/MySQL REST APIs.
-* Implemented JWT authentication.
-* Implemented business logic and RBAC.
-* Built Material 3 based UI.
+- Applied **Provider + Repository Pattern**.
+- Built PHP/MySQL REST APIs.
+- Implemented JWT authentication.
+- Implemented business logic and RBAC.
+- Built Material 3 based UI.
 
 ---
 
@@ -285,15 +275,15 @@ An AI-assisted placement readiness platform.
 
 ### Features
 
-* NLP-based Placement Readiness Score **0–100**
-* Resume skill extraction
-* Skill-gap detection
-* Company eligibility prediction
-* Admin analytics dashboard
-* Supabase Authentication
-* PostgreSQL Row Level Security
-* Supabase Storage
-* Realtime synchronisation
+- NLP-based Placement Readiness Score **0–100**
+- Resume skill extraction
+- Skill-gap detection
+- Company eligibility prediction
+- Admin analytics dashboard
+- Supabase Authentication
+- PostgreSQL Row Level Security
+- Supabase Storage
+- Realtime synchronisation
 
 ---
 
@@ -305,10 +295,10 @@ A mobile platform focused on personalised job-market skill recommendations.
 
 ### Engineering
 
-* Designed a **15-table PostgreSQL schema**.
-* Implemented Row Level Security.
-* Enforced user-level data isolation.
-* Built personalised skill recommendation workflows.
+- Designed a **15-table PostgreSQL schema**.
+- Implemented Row Level Security.
+- Enforced user-level data isolation.
+- Built personalised skill recommendation workflows.
 
 ---
 
@@ -328,17 +318,16 @@ Analysed conversion funnels for marketing optimisation.
 
 # 🏆 Achievements & Leadership
 
-* **Smart India Hackathon** — selected project; developed an AI and automation-based solution addressing a real-world problem statement.
-* Participated in multiple hackathons involving AI classification, mobile application development, backend API engineering and workflow automation.
-* Mentored junior students on **React Native, Laravel and Supabase** integration.
-* **Neo4j Certified Professional**.
-* Active GitHub developer maintaining project repositories, technical documentation and collaborative development workflows.
+- **Smart India Hackathon** — selected project; developed an AI and automation-based solution addressing a real-world problem statement.
+- Participated in multiple hackathons involving AI classification, mobile application development, backend API engineering and workflow automation.
+- Mentored junior students on **React Native, Laravel and Supabase** integration.
+- **Neo4j Certified Professional**.
+- Active GitHub developer maintaining project repositories, technical documentation and collaborative development workflows.
 
 ---
 
 # 🎯 Current Focus
 
-```yaml
 learning:
   - Advanced Data Engineering
   - Cloud Infrastructure
@@ -365,9 +354,8 @@ target_roles:
   - Backend Engineering
   - Cloud / DevOps
   - AI Engineering
-```
 
----
+    ---
 
 # 📊 GitHub Analytics
 
@@ -444,4 +432,7 @@ target_roles:
 ### Building scalable data, backend and AI systems — one production-ready component at a time.
 
 </div>
-```
+
+  - Neo4j Certified Professional
+  - MongoDB Basics for Students
+  - Prompt Engineering with GitHub Copilot
