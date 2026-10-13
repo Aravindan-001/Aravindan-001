@@ -1,438 +1,339 @@
-<div align="center">
+# 👋 Hey, I'm Aravindan S
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,100:1E293B&text=Aravindan%20Singaram&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Cloud%20%26%20Data%20Engineering%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20AI%20%26%20Agent%20Engineering&descAlignY=62&descColor=CBD5E1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Production-Ready+Backend+Systems;Designing+Data+Pipelines+and+RAG+Systems;Engineering+AI+Agents+with+LangGraph;Deploying+Containerised+Applications;Exploring+Cloud%2C+Data+and+Distributed+Systems"/>
-
-<br/>
-
-<a href="https://github.com/Aravindan-001">
-<img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=for-the-badge&color=0ea5e9"/>
-</a>
-
-<a href="https://github.com/Aravindan-001?tab=followers">
-<img src="https://img.shields.io/github/followers/Aravindan-001?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aravindansingaram">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aravindansingaram@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👋 About Me
-
-I'm **Aravindan Singaram**, a 5th-semester **B.Tech Information Technology** student focused on building backend systems, data pipelines, AI agents, and cloud-deployed applications.
-
-My current engineering focus sits at the intersection of **Data Engineering + Backend Engineering + Cloud/DevOps + AI/Agent Engineering**.
-
-I enjoy taking a system from **data ingestion and database design → APIs → AI workflows → testing → containerisation → production deployment**.
-
-name: Aravindan Singaram
-
-education:
-  degree: B.Tech Information Technology
-  institution: NPR College of Engineering and Technology
-  duration: 2024 - 2028
-
-focus:
-  - Data Engineering
-  - Backend Engineering
-  - Cloud & DevOps
-  - AI & Agent Engineering
-
-currently_building:
-  - NORA — Agency Operations, Knowledge Graph & AI Agent Platform
-  - Data pipelines
-  - AI-integrated backend systems
-
----
-
-# 🧠 What I Build
-
-- **Backend systems** with FastAPI, Laravel, Node.js and layered architectures
-- **Data platforms** using PostgreSQL, pgvector, MongoDB, Neo4j and Redis
-- **ETL / ELT pipelines** with webhook ingestion, validation, transformation and AI classification
-- **RAG systems** with vector retrieval, context construction and grounded LLM responses
-- **AI agents** using LangGraph, tool execution, intent routing and confirmation-gated actions
-- **Production applications** containerised with Docker and deployed using Nginx, Render, AWS S3 and Cloudflare
-- **Cross-platform applications** using SvelteKit, React Native and Flutter
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,php,dart,c"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Aravindan%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Engineering%20%7C%20AI%20Agents%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=17" width="100%" alt="Aravindan S profile banner" />
 </p>
 
-Python • SQL • TypeScript • JavaScript • PHP 8.2+ • Dart • C
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs,express,flask"/>
+<p align="center">
+  <a href="https://github.com/Aravindan-001">
+    <img src="https://img.shields.io/badge/GitHub-Aravindan--001-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-2563EB?style=for-the-badge" alt="Information Technology" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%20%7C%20Cloud-0891B2?style=for-the-badge" alt="Technical focus" />
 </p>
 
-FastAPI • Laravel 12 • Node.js • Express.js • Flask • REST APIs • SQLAlchemy 2.x • Pydantic • Pydantic Settings
-
-Router → Service → Repository Architecture • RBAC • Supervisor Queue Processing
-
-### Data & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,neo4j"/>
+<p align="center">
+  <b>Building intelligent systems, production-ready applications, and cloud-native solutions.</b>
 </p>
 
-PostgreSQL • pgvector • MySQL 8 • MongoDB Atlas • Neo4j • Redis • Supabase • Firebase
+---
 
-### Data Engineering
+## 🧭 About Me
 
-ETL / ELT • Data Ingestion • Data Transformation & Validation • Data Modelling
+I'm an Information Technology engineering student interested in building practical software systems that combine **backend engineering, agentic AI, data engineering, and cloud infrastructure**.
 
-API-based Ingestion • Webhook-driven Workflows • Knowledge Indexing Pipelines • Vector Embeddings
+- 🧠 Exploring AI agents, RAG pipelines, and LLM-powered workflows.
+- ⚙️ Building backend APIs, authentication systems, and database-driven applications.
+- ☁️ Working with cloud deployment, Docker, CI/CD, and DevOps workflows.
+- 🔐 Interested in application security, penetration testing, and secure system design.
+- 🛠️ Developing web applications, mobile apps, SaaS products, and automation tools.
+- 🎯 Career interests: **Backend Engineering · AI & Agent Engineering · Cloud & DevOps**
 
-### AI & Agents
+---
 
-LangGraph • LangChain / LCEL • RAG • pgvector Retrieval • OpenAI • Gemini
+## 📊 GitHub at a Glance
 
-Prompt Engineering • Agentic Tool Layer • Structured Generation
-
-Conversational Memory • Intent Routing • Confirmation-gated AI Actions • n8n
-
-### Frontend & Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=svelte,nextjs,react,ts,tailwind,vite,flutter"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
-SvelteKit • Svelte 5 • Next.js 15 • React 19 • React Native Expo
-
-Flutter • Tailwind CSS • shadcn/ui • Framer Motion • Vite
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,cloudflare,git,github"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
 </p>
 
-Docker • Render • AWS S3 • Cloudflare DNS/CDN/Proxy
+---
 
-Nginx • Supervisor • Git/GitHub • Deployment Verification • Security Headers/CSP
+## 🧩 Technical Skill Map
 
-### Testing
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Pytest • HTTPX • Integration Testing • API Testing
+### 💻 Programming & Web
 
-npm run check • npm run build
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css" alt="Programming languages" />
+</p>
+
+**Frameworks**
+- Next.js · React
+- Node.js · FastAPI · Laravel
+- Flutter · SvelteKit
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🗄️ Data & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" alt="Database technologies" />
+</p>
+
+**Data technologies**
+- PostgreSQL · MySQL · MongoDB
+- Redis · Firebase · Supabase
+- Neo4j · pgvector
+- Data modelling and API integration
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 AI & Agent Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning technologies" />
+</p>
+
+- Agentic AI and AI agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain · LangGraph
+- Model Context Protocol (MCP)
+- OpenAI · Gemini · Claude
+- Vector search and AI workflows
+
+    </td>
+    <td width="50%" valign="top">
+
+### ☁️ Cloud, DevOps & Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare,linux,git,github" alt="Cloud and DevOps tools" />
+</p>
+
+- Docker and containerization
+- Cloud deployment and CI/CD
+- AWS · Cloudflare · Vercel · Render
+- API security and authentication
+- Security testing and access control
+
+    </td>
+  </tr>
+</table>
+
+### 🧰 Tools & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio" alt="Developer tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/Zapier-Workflow%20Automation-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🏗️ How I Build Systems
 
-## 🤖 NORA — Agency Operations, Knowledge Graph & AI Agent Platform
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Design%20%26%20Architecture-2563EB?style=for-the-badge" alt="Design and architecture" />
+  <img src="https://img.shields.io/badge/02-Backend%20%26%20Data-0891B2?style=for-the-badge" alt="Backend and data" />
+  <img src="https://img.shields.io/badge/03-AI%20%26%20Automation-7C3AED?style=for-the-badge" alt="AI and automation" />
+  <img src="https://img.shields.io/badge/04-Testing%20%26%20Security-16A34A?style=for-the-badge" alt="Testing and security" />
+  <img src="https://img.shields.io/badge/05-Deploy%20%26%20Monitor-F97316?style=for-the-badge" alt="Deployment and monitoring" />
+</p>
 
-**2026 · FastAPI + PostgreSQL + pgvector + LangGraph + SvelteKit**
+```mermaid
+flowchart TD
+    A["💡 Problem & Requirements"] --> B["🏛️ System Architecture"]
+    B --> C["⚙️ Backend APIs & Business Logic"]
+    B --> D["🗄️ Database & Data Pipelines"]
+    C --> E["🤖 AI Agents & Automation"]
+    D --> E
+    E --> F["🔐 Security & Testing"]
+    F --> G["🐳 Docker & CI/CD"]
+    G --> H["☁️ Cloud Deployment"]
+    H --> I["📈 Monitor & Improve"]
 
-A full-stack agency operations platform connecting structured business data with conversational AI and semantic knowledge retrieval.
+    classDef planning fill:#1D4ED8,color:#FFFFFF,stroke:#60A5FA
+    classDef engineering fill:#0E7490,color:#FFFFFF,stroke:#22D3EE
+    classDef delivery fill:#166534,color:#FFFFFF,stroke:#4ADE80
 
-### Engineering Highlights
-
-- Modelled **Clients → Leads → Projects → Tasks** as PostgreSQL relational entities with foreign keys, cascading deletion and Alembic migrations.
-- Built a layered **Router → Service → Repository** backend using FastAPI, SQLAlchemy and Pydantic.
-- Expanded the integration test suite from **134 to 303 passing Pytest/HTTPX tests**.
-- Integrated **pgvector** for entity-aware semantic retrieval, relevance scoring and idempotent knowledge re-indexing.
-- Implemented a complete **RAG pipeline**:
-
-Knowledge Retrieval
-        ↓
-Entity-aware Context Construction
-        ↓
-Structured LLM Generation
-        ↓
-Grounded Response
-        ↓
-Source Metadata
-
-- Built a **LangGraph StateGraph** with three major branches:
-  - Knowledge / RAG
-  - Action / Tool
-  - General LLM
-- Implemented AI-driven CRUD tools with **confirmation-gated mutations**.
-- Implemented bounded multi-turn conversational memory.
-- Added persistent **PostgreSQL-backed session storage** with an in-memory fallback.
-- Implemented entity-aware follow-up resolution for references such as:
-  - "second project"
-  - "that client"
-- Built the ORBIT conversational interface using **SvelteKit + Svelte 5**.
-- Optimised graph rendering using O(1) Map-based edge lookups.
+    class A,B planning
+    class C,D,E,F engineering
+    class G,H,I delivery
+```
 
 ---
 
-## 💎 Svaraa Jewels — Production E-commerce Platform
+## 🚀 Featured Projects
 
-**2025 · Laravel 12 + MySQL 8 + Redis + Docker + Nginx + Render**
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Production-oriented jewellery e-commerce platform with payment processing, background jobs, administration, search and cloud deployment.
+### 🧠 NORA
 
-### Engineering Highlights
+**AI-powered agency operations and knowledge graph platform**
 
-- Built product catalogue, cart, order management, inventory, coupons and reviews.
-- Implemented **Razorpay webhook-based payment confirmation**.
-- Added invoice generation and background order processing.
-- Used **Redis + Supervisor** for queue-based background processing.
-- Containerised the application stack using **Docker**.
-- Configured **Nginx** for production deployment.
-- Deployed the application to **Render**.
-- Integrated **AWS S3** for file storage.
-- Integrated **Cloudflare** for DNS, CDN, proxy and web security.
-- Implemented **Security Headers and CSP**.
-- Debugged production environment and filesystem/storage issues.
-- Built a **Filament 5** administration system.
-- Added bulk upload and PDF catalogue import workflows.
-- Implemented full-text search using **Laravel Scout + Meilisearch**.
-- Designed and optimised MySQL database queries.
+- FastAPI backend and PostgreSQL.
+- pgvector-based retrieval capabilities.
+- LangGraph workflow orchestration.
+- SvelteKit frontend.
+- Router → Service → Repository architecture.
 
-Repository:
+**Focus:** AI systems · RAG · Backend engineering
 
-`github.com/nexoralabs-website/svaraa-jewels`
+    </td>
+    <td width="50%" valign="top">
 
+### 💎 Svaraa Jewels
 
-## 📊 WhatsApp Lead Engagement & CRM Data Pipeline
+**E-commerce application with a deployment-focused architecture**
 
-**2025 · n8n + Supabase/PostgreSQL + WhatsApp API + Gemini + React**
+- Laravel 12 and PHP.
+- MySQL and Redis.
+- Filament administration.
+- Docker and Nginx.
+- CI/CD and deployment workflows.
 
-An event-driven ETL and AI classification pipeline for automated lead engagement and CRM management.
+**Focus:** Web engineering · Databases · Cloud & DevOps
 
-### Architecture
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-Lead Capture
-     ↓
-Webhook Ingestion
-     ↓
-Data Normalisation
-     ↓
-Validation
-     ↓
-PostgreSQL / Supabase
-     ↓
-Gemini AI Classification
-     ↓
-Lead Scoring
-     ↓
-CRM Update
-     ↓
-React Dashboard
+### 📱 iCore ESS
 
-### Highlights
+**Employee self-service mobile application**
 
-- Designed the ingestion and normalisation layer between webhooks and PostgreSQL.
-- Implemented schema validation before database writes.
-- Integrated Gemini for automated reply analysis and lead classification.
-- Implemented lead scoring workflows.
-- Built event-triggered CRM updates and alerts.
-- Built a React dashboard for monitoring lead activity.
+- Flutter and Dart.
+- SOAP/XML service integration.
+- Firebase integration.
+- Mobile application workflows.
 
----
+**Focus:** Mobile engineering · API integration
 
-## 📱 Shri Vishwakarma Matrimony — Flutter Mobile App
+[View Repository](https://github.com/Aravindan-001/icore-ess)
 
-**2025 · Flutter + Dart + PHP + MySQL + REST APIs**
+    </td>
+    <td width="50%" valign="top">
 
-Production-oriented matrimonial application featuring:
+### ☁️ Cloud & DevOps Platform
 
-- Profile management
-- Search and filtering
-- Membership tiers
-- Premium workflows
-- Chat restrictions
-- Interest workflows
-- Tamil / English bilingual UI
+**Infrastructure and deployment-focused engineering**
 
-### Engineering
+- Cloud deployment workflows.
+- Containerization and automation.
+- Development and delivery practices.
 
-- Applied **Provider + Repository Pattern**.
-- Built PHP/MySQL REST APIs.
-- Implemented JWT authentication.
-- Implemented business logic and RBAC.
-- Built Material 3 based UI.
+**Focus:** Cloud engineering · DevOps
+
+[Explore My GitHub Repositories](https://github.com/Aravindan-001?tab=repositories)
+
+    </td>
+  </tr>
+</table>
+
+### 🔬 Other Engineering Work
+
+- **PerceptionIQ** — hackathon project focused on AI-assisted capabilities and application workflows.
+- **Client CRM** — lead management interface and responsive sales CRM workflows.
+- **PYP — Pick Your Photographer** — photographer marketplace app with booking, payment, and role-based workflows.
+
+> Project descriptions represent different stages of development. Explore individual repositories for available source code and implementation details.
 
 ---
 
-## 🎓 CampusIQ — AI-Powered Placement Readiness System
+## 🧠 AI & Backend Architecture
 
-**2024 · React Native Expo + Supabase + PostgreSQL**
+```mermaid
+flowchart LR
+    U["👤 User"] --> UI["🖥️ Web / Mobile UI"]
+    UI --> API["⚡ Backend API"]
+    API --> AUTH["🔐 Authentication & Authorization"]
+    AUTH --> DB[("🗄️ Database")]
+    API --> AGENT["🤖 AI Agent / Workflow"]
+    AGENT --> RET["🔎 Retrieval & Vector Search"]
+    RET --> DB
+    AGENT --> LLM["🧠 LLM Provider"]
+    LLM --> API
+    DB --> API
+    API --> UI
 
-An AI-assisted placement readiness platform.
+    classDef frontend fill:#1D4ED8,color:#FFFFFF,stroke:#60A5FA
+    classDef backend fill:#0E7490,color:#FFFFFF,stroke:#22D3EE
+    classDef ai fill:#6D28D9,color:#FFFFFF,stroke:#A78BFA
+    classDef storage fill:#166534,color:#FFFFFF,stroke:#4ADE80
 
-### Features
+    class U,UI frontend
+    class API,AUTH backend
+    class AGENT,RET,LLM ai
+    class DB storage
+```
 
-- NLP-based Placement Readiness Score **0–100**
-- Resume skill extraction
-- Skill-gap detection
-- Company eligibility prediction
-- Admin analytics dashboard
-- Supabase Authentication
-- PostgreSQL Row Level Security
-- Supabase Storage
-- Realtime synchronisation
+**Engineering principles I value**
 
----
-
-## 📈 SkillMarket AI — Skill Intelligence Platform
-
-**2024 · React Native Expo + Supabase/PostgreSQL**
-
-A mobile platform focused on personalised job-market skill recommendations.
-
-### Engineering
-
-- Designed a **15-table PostgreSQL schema**.
-- Implemented Row Level Security.
-- Enforced user-level data isolation.
-- Built personalised skill recommendation workflows.
-
----
-
-## 📊 Firebase / GA4 / Google Ads Analytics Integration
-
-**2024 · Firebase Analytics + Crashlytics + GA4 + Google Ads**
-
-Implemented mobile analytics and conversion tracking workflows.
-
-Tracked events including:
-
-`first_open` • `session_start` • `view_item` • `generate_lead` • `post_property` • `plan_purchase`
-
-Analysed conversion funnels for marketing optimisation.
+- Modular architecture and separation of concerns.
+- Secure authentication and authorization.
+- Database integrity and server-side validation.
+- Reusable APIs and maintainable code.
+- Automated testing and deployment.
+- Practical AI integrations with clear application value.
 
 ---
 
-# 🏆 Achievements & Leadership
+## 🏅 Certifications & Learning Milestones
 
-- **Smart India Hackathon** — selected project; developed an AI and automation-based solution addressing a real-world problem statement.
-- Participated in multiple hackathons involving AI classification, mobile application development, backend API engineering and workflow automation.
-- Mentored junior students on **React Native, Laravel and Supabase** integration.
-- **Neo4j Certified Professional**.
-- Active GitHub developer maintaining project repositories, technical documentation and collaborative development workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Neo4j-Certified%20Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Certified Professional" />
+  <img src="https://img.shields.io/badge/Oracle-Agentic%20AI%20Foundations%202026-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Agentic AI Foundations 2026" />
+</p>
 
----
-
-# 🎯 Current Focus
-
-learning:
-  - Advanced Data Engineering
-  - Cloud Infrastructure
-  - Distributed Systems
-  - Advanced Backend Architecture
-  - AI Agent Systems
-
-building:
-  - NORA
-  - Data Pipelines
-  - AI-integrated Backend Systems
-  - Cloud-deployed Applications
-
-exploring:
-  - Vector Databases
-  - Knowledge Graphs
-  - Event-driven Architecture
-  - Workflow Automation
-  - Observability
-  - Production Infrastructure
-
-target_roles:
-  - Data Engineering
-  - Backend Engineering
-  - Cloud / DevOps
-  - AI Engineering
-
-    ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- **Neo4j Certified Professional** — graph database concepts and graph technology.
+- **Oracle Agentic AI Foundations 2026** — agentic AI foundations and related AI technologies.
+- **OpenAI Responses API & Agents SDK** — completed learning module.
+- **Model Context Protocol (MCP)** — completed learning module.
+- **OCI Enterprise AI / Oracle AI Database & Vector Search** — completed learning modules.
+- **MongoDB Basics for Students** — database learning milestone.
+- **Prompt Engineering with GitHub Copilot** — developer productivity learning milestone.
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 Current Focus
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-API%20Engineering-2563EB?style=flat-square" alt="Backend engineering" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20Systems-7C3AED?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Data-Engineering-0891B2?style=flat-square" alt="Data engineering" />
+  <img src="https://img.shields.io/badge/Cloud-DevOps-16A34A?style=flat-square" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/Security-Secure%20Systems-F97316?style=flat-square" alt="Security engineering" />
+</p>
 
-<a href="mailto:aravindansingaram@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aravindansingaram">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aravindan-001">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+I enjoy connecting software engineering with AI and infrastructure to build systems that are useful, secure, and deployable.
 
 ---
 
-# 🐍 Contribution Snake
+## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Aravindan-001">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <b>Build. Automate. Deploy. Improve.</b>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-### Building scalable data, backend and AI systems — one production-ready component at a time.
-
-</div>
-
-  - Neo4j Certified Professional
-  - MongoDB Basics for Students
-  - Prompt Engineering with GitHub Copilot
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>
