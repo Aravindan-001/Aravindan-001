@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ARAVINDAN S | GITHUB PROFILE -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:172554,75:1D4ED8,100:06B6D4&text=ARAVINDAN%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%7C%20AI%20AGENTS%20%7C%20CLOUD%20%26%20DEVOPS&descSize=16&descAlignY=57&animation=fadeIn" alt="Aravindan S — Engineering Portfolio"/>
