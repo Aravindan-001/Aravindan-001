@@ -1,72 +1,110 @@
-<!-- ========================================================= -->
-<!-- ARAVINDAN S | GITHUB PROFILE README -->
-<!-- ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ARAVINDAN S | GITHUB PROFILE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ARAVINDAN%20S&fontSize=64&fontColor=ffffff&stroke=2563EB&strokeWidth=2&animation=fadeIn&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4" width="100%" alt="Aravindan S — Developer Portfolio Banner"/>
-
-### `BACKEND ENGINEERING` · `AI AGENTS` · `CLOUD & DEVOPS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Engineering+intelligent+software+systems;Building+AI-powered+applications;Designing+secure+backend+architectures;Automating+cloud+deployment+workflows" alt="Animated developer introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:172554,75:1D4ED8,100:06B6D4&text=ARAVINDAN%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%7C%20AI%20AGENTS%20%7C%20CLOUD%20%26%20DEVOPS&descSize=16&descAlignY=57&animation=fadeIn" alt="Aravindan S — Engineering Portfolio"/>
 
 <br/>
 
-<a href="https://github.com/Aravindan-001">
-<img src="https://img.shields.io/badge/GitHub-Aravindan--001-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub profile"/>
-</a>
-<img src="https://img.shields.io/badge/ROLE-Student%20Engineer-0EA5E9?style=for-the-badge" alt="Student engineer"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20Cloud%20%7C%20Backend-7C3AED?style=for-the-badge" alt="Engineering focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+Systems;Engineering+AI+Agents+%26+Backend+APIs;Designing+Cloud-Ready+Applications;Turning+Ideas+Into+Deployable+Products" alt="Animated engineering tagline"/>
 
 <br/><br/>
 
-**I turn ideas into software systems — from backend architecture and AI workflows to cloud deployment.**
+<a href="https://github.com/Aravindan-001">
+  <img src="https://img.shields.io/badge/GitHub-Aravindan--001-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/DOMAIN-Backend%20Engineering-2563EB?style=for-the-badge" alt="Backend engineering"/>
+<img src="https://img.shields.io/badge/DOMAIN-Agentic%20AI-7C3AED?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/DOMAIN-Cloud%20%26%20DevOps-0891B2?style=for-the-badge" alt="Cloud and DevOps"/>
+
+<br/><br/>
+
+**I build software at the intersection of intelligent automation, backend systems, data, and cloud infrastructure.**
 
 </div>
 
 ---
 
-## ◈ 01 — ENGINEERING OVERVIEW
+<div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td align="center" width="25%">
 
-### `WHO AM I?`
+**⚙️ BACKEND**
 
-I'm an Information Technology engineering student focused on building practical, scalable software.
-
-My interests sit at the intersection of **backend systems, agentic AI, data engineering, cloud infrastructure, and application security**.
-
-I enjoy working across the stack: designing APIs, modelling data, integrating AI capabilities, securing application workflows, and deploying software.
-
-### `ENGINEERING PRINCIPLES`
-
-- Architecture before complexity
-- Security by design
-- Automation over repetitive work
-- Testable and maintainable code
-- AI with practical application value
+API Engineering
 
 </td>
-<td width="40%" valign="top">
+<td align="center" width="25%">
 
-### `ENGINEERING DNA`
+**🤖 AI SYSTEMS**
 
-| Domain | Focus |
-|:--|:--|
-| ⚙️ Backend | APIs & business logic |
-| 🤖 AI Engineering | Agents, RAG & MCP |
-| ☁️ Cloud | Deployment & CI/CD |
-| 🗄️ Data | SQL, vector & graph DBs |
-| 🔐 Security | Auth & secure workflows |
-| 📱 Applications | Web & mobile systems |
+Agents & RAG
+
+</td>
+<td align="center" width="25%">
+
+**☁️ CLOUD**
+
+Deploy & Automate
+
+</td>
+<td align="center" width="25%">
+
+**🗄️ DATA**
+
+SQL & Vector Search
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## `01` — Engineering Profile
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Who I Am
+
+I'm an Information Technology engineering student focused on building practical, maintainable software systems.
+
+My engineering interests span backend development, AI agents, data engineering, cloud infrastructure, and application security.
+
+I enjoy connecting different layers of a system — from user-facing applications and backend APIs to databases, AI workflows, automated tests, and deployment pipelines.
+
+**What drives my engineering work**
+- Building useful, real-world software.
+- Designing modular and secure backend systems.
+- Integrating AI into application workflows.
+- Automating repetitive development and deployment tasks.
+- Learning through implementation, testing, and iteration.
+
+</td>
+<td width="42%" valign="top">
+
+### Engineering Focus
+
+<img src="https://img.shields.io/badge/01-Backend%20Systems-2563EB?style=flat-square" alt="Backend systems"/>
+
+<img src="https://img.shields.io/badge/02-AI%20%26%20Agent%20Engineering-7C3AED?style=flat-square" alt="AI and agent engineering"/>
+
+<img src="https://img.shields.io/badge/03-Cloud%20%26%20DevOps-0891B2?style=flat-square" alt="Cloud and DevOps"/>
+
+<img src="https://img.shields.io/badge/04-Data%20Engineering-0F766E?style=flat-square" alt="Data engineering"/>
+
+<img src="https://img.shields.io/badge/05-Security%20Engineering-B45309?style=flat-square" alt="Security engineering"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILD-Architect%20%7C%20Engineer-2563EB?style=flat-square" alt="Build"/>
-<img src="https://img.shields.io/badge/THINK-Systematically-0891B2?style=flat-square" alt="Think"/>
-<img src="https://img.shields.io/badge/SHIP-Practically-16A34A?style=flat-square" alt="Ship"/>
+**Preferred workflow**
+
+`Design` → `Build` → `Test` → `Secure` → `Deploy`
 
 </td>
 </tr>
@@ -74,130 +112,111 @@ I enjoy working across the stack: designing APIs, modelling data, integrating AI
 
 ---
 
-## ◈ 02 — TECHNOLOGY LANDSCAPE
+## `02` — Technology Radar
 
 <div align="center">
 
-### `01` · LANGUAGES
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C, HTML and CSS"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C, HTML, CSS"/>
 
-### `02` · APPLICATION ENGINEERING
+### Web, Backend & Mobile
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,laravel,svelte,flutter&theme=dark" alt="Next.js, React, Node.js, FastAPI, Laravel, Svelte and Flutter"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,laravel,svelte,flutter&theme=dark" alt="Next.js, React, Node.js, FastAPI, Laravel, Svelte, Flutter"/>
 
-### `03` · DATA & STORAGE
+### Databases & Data Platforms
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase and Supabase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase"/>
 
 <img src="https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
 <img src="https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=flat-square" alt="pgvector"/>
 
-### `04` · CLOUD, DEVOPS & TOOLING
+### Cloud, DevOps & Developer Tools
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare,linux,git,github,postman&theme=dark" alt="AWS, Docker, Nginx, GitHub Actions, Cloudflare, Linux, Git, GitHub and Postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,cloudflare,linux,git,github,postman&theme=dark" alt="AWS, Docker, Nginx, GitHub Actions, Cloudflare, Linux, Git, GitHub, Postman"/>
 
-### `05` · AI & AUTOMATION ECOSYSTEM
+### AI, Agent Frameworks & Automation
 
 <img src="https://img.shields.io/badge/OpenAI-LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-AI%20Models-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Anthropic%20Claude-AI%20Models-D97757?style=flat-square" alt="Claude"/>
-<img src="https://img.shields.io/badge/LangChain-AI%20Workflows-1C3C3C?style=flat-square" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Gemini-AI%20Models-4285F4?style=flat-square" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Claude-AI%20Models-D97757?style=flat-square" alt="Claude"/>
+<img src="https://img.shields.io/badge/LangChain-LLM%20Framework-1C3C3C?style=flat-square" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-7C3AED?style=flat-square" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0F766E?style=flat-square" alt="MCP"/>
 <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
 
 ---
 
-## ◈ 03 — SYSTEM ARCHITECTURE
+## `03` — How I Engineer a System
 
 <div align="center">
 
-### `FROM USER REQUEST TO DEPLOYED SYSTEM`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0F172A,50:1D4ED8,100:0891B2&text=IDEA%20%E2%86%92%20ARCHITECTURE%20%E2%86%92%20ENGINEERING%20%E2%86%92%20DELIVERY&fontSize=19&fontColor=FFFFFF" alt="Engineering lifecycle infographic"/>
 
 </div>
 
 ```mermaid
-flowchart TB
-    USER(["👤 USER / CLIENT"])
+flowchart TD
+    A(["💡 Problem & Requirements"])
+    B["🏛️ Architecture & Design"]
 
-    subgraph EXPERIENCE["01 · EXPERIENCE LAYER"]
-        WEB["Web Application"]
-        MOBILE["Mobile Application"]
-        ADMIN["Admin Dashboard"]
+    subgraph BUILD["BUILD THE SYSTEM"]
+        C["⚙️ Backend APIs"]
+        D["🗄️ Data & Persistence"]
+        E["🖥️ Web / Mobile UI"]
+        F["🤖 AI Agents & Automation"]
     end
 
-    subgraph ENGINE["02 · APPLICATION ENGINE"]
-        API["Backend APIs"]
-        AUTH["Authentication & RBAC"]
-        LOGIC["Business Logic"]
-    end
+    G["🔐 Authentication & Security"]
+    H["🧪 Testing & Validation"]
+    I["🐳 Containers & CI/CD"]
+    J(["☁️ Cloud Deployment"])
+    K(["📈 Monitor & Improve"])
 
-    subgraph INTELLIGENCE["03 · INTELLIGENCE LAYER"]
-        AGENT["AI Agents"]
-        RAG["RAG & Vector Retrieval"]
-        MCP["MCP / External Tools"]
-    end
+    A --> B
+    B --> C
+    B --> D
+    B --> E
+    C --> F
+    D --> F
+    C --> G
+    D --> G
+    E --> G
+    F --> G
+    G --> H --> I --> J --> K
 
-    subgraph DATA["04 · DATA LAYER"]
-        SQL[("SQL Database")]
-        VECTOR[("Vector Storage")]
-        GRAPH[("Graph Database")]
-    end
-
-    subgraph DELIVERY["05 · DELIVERY LAYER"]
-        TEST["Testing & Security"]
-        CI["CI/CD & Containers"]
-        CLOUD["Cloud Deployment"]
-    end
-
-    USER --> WEB
-    USER --> MOBILE
-    USER --> ADMIN
-
-    WEB --> API
-    MOBILE --> API
-    ADMIN --> API
-
-    API --> AUTH --> LOGIC
-    LOGIC --> SQL
-    LOGIC --> AGENT
-
-    AGENT --> RAG
-    AGENT --> MCP
-    RAG --> VECTOR
-    AGENT --> GRAPH
-
-    LOGIC --> TEST
-    TEST --> CI --> CLOUD
-
-    classDef user fill:#0F172A,stroke:#38BDF8,color:#FFFFFF
-    classDef experience fill:#172554,stroke:#60A5FA,color:#FFFFFF
-    classDef backend fill:#164E63,stroke:#22D3EE,color:#FFFFFF
+    classDef start fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    classDef build fill:#164E63,stroke:#22D3EE,color:#FFFFFF
     classDef ai fill:#4C1D95,stroke:#C4B5FD,color:#FFFFFF
-    classDef data fill:#14532D,stroke:#4ADE80,color:#FFFFFF
-    classDef delivery fill:#7C2D12,stroke:#FB923C,color:#FFFFFF
+    classDef delivery fill:#14532D,stroke:#4ADE80,color:#FFFFFF
 
-    class USER user
-    class WEB,MOBILE,ADMIN experience
-    class API,AUTH,LOGIC backend
-    class AGENT,RAG,MCP ai
-    class SQL,VECTOR,GRAPH data
-    class TEST,CI,CLOUD delivery
+    class A,B start
+    class C,D,E,G build
+    class F ai
+    class H,I,J,K delivery
 ```
 
-> **Architecture mindset:** keep application logic modular, validate data at trust boundaries, enforce authorization on the server, and make deployment repeatable.
+### Core Engineering Principles
+
+| Principle | Implementation mindset |
+|:--|:--|
+| Architecture | Separate responsibilities into maintainable modules |
+| Security | Validate input and enforce server-side authorization |
+| Data integrity | Use appropriate schemas, constraints, and validation |
+| Reliability | Test important application flows and edge cases |
+| Automation | Make repeatable tasks easier to execute consistently |
+| Delivery | Keep build and deployment processes reproducible |
 
 ---
 
-## ◈ 04 — PROJECT SHOWCASE
+## `04` — Project Portfolio
 
 <div align="center">
 
-### `SELECTED ENGINEERING WORK`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,50:1D4ED8,100:06B6D4&text=ENGINEERING%20IN%20ACTION&fontSize=25&fontColor=FFFFFF" width="100%" alt="Engineering project showcase"/>
 
 </div>
 
@@ -205,96 +224,80 @@ flowchart TB
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🧠 NORA
 
-**AI Agency Operations Platform**
+**AI Agency Operations & Knowledge Platform**
 
-<img src="https://img.shields.io/badge/AI-RAG%20%26%20Agents-7C3AED?style=flat-square" alt="AI and RAG"/>
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Data-PostgreSQL%20%2B%20pgvector-336791?style=flat-square" alt="PostgreSQL and pgvector"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent%20Workflows-7C3AED?style=flat-square" alt="LangGraph"/>
 
-</div>
-
-- Agency operations and knowledge graph concepts.
-- FastAPI backend with modular architecture.
-- PostgreSQL and vector retrieval.
+- FastAPI backend and modular architecture.
+- PostgreSQL with pgvector retrieval.
 - LangGraph workflow orchestration.
-- SvelteKit frontend.
+- SvelteKit application interface.
+- Router → Service → Repository separation.
 
-**Engineering focus:** AI workflows, retrieval, backend architecture.
+`AI Engineering` · `RAG` · `Backend Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 💎 SVARAA JEWELS
+### 💎 Svaraa Jewels
 
 **E-commerce & Deployment Engineering**
 
-<img src="https://img.shields.io/badge/Framework-Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/DevOps-Docker%20%2B%20Nginx-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker and Nginx"/>
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 
-</div>
-
-- Laravel and PHP application architecture.
+- Laravel and PHP application.
 - MySQL persistence and Redis integration.
 - Filament administration.
-- Docker and Nginx deployment setup.
-- CI/CD workflow integration.
+- Docker and Nginx setup.
+- CI/CD and deployment workflows.
 
-**Engineering focus:** application delivery, databases, DevOps.
+`Web Engineering` · `Databases` · `Cloud & DevOps`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### 📱 iCore ESS
 
-### 📱 iCORE ESS
+**Employee Self-Service Mobile Application**
 
-**Employee Self-Service Mobile App**
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-Language-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/SOAP%2FXML-Integration-0891B2?style=flat-square" alt="SOAP and XML"/>
 
-<img src="https://img.shields.io/badge/Mobile-Flutter%20%2B%20Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Integration-SOAP%20%2F%20XML-0891B2?style=flat-square" alt="SOAP XML"/>
-<img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-
-</div>
-
-- Employee self-service workflows.
-- Flutter and Dart application development.
+- Flutter and Dart application.
 - SOAP/XML service integration.
 - Firebase integration.
+- Employee self-service workflows.
 
-**Engineering focus:** mobile applications and enterprise integration.
+`Mobile Engineering` · `API Integration`
 
-[↗ Explore Repository](https://github.com/Aravindan-001/icore-ess)
+[↗ View Repository](https://github.com/Aravindan-001/icore-ess)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### 📊 Client CRM
 
-### 📊 CLIENT CRM
+**Sales & Lead Management Interface**
 
-**Sales & Lead Management**
+<img src="https://img.shields.io/badge/Next.js-Frontend-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Playwright-Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
 
-<img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/UI-React%20%2B%20Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="React and Tailwind"/>
-<img src="https://img.shields.io/badge/QA-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-
-</div>
-
-- Sales CRM interface and lead workflows.
-- Responsive web application design.
-- Automated browser testing.
+- Lead management and sales workflows.
+- Responsive user interface.
+- Browser-based automated testing.
 - Type checking, linting, and build validation.
 
-**Engineering focus:** frontend integration, usability, testing.
+`Full-Stack Development` · `Testing`
 
 </td>
 </tr>
@@ -305,12 +308,12 @@ flowchart TB
 
 **Photographer Marketplace**
 
-- Booking and confirmation workflows.
-- Photographer and customer roles.
-- Payment integration planning.
-- Server-side fee and booking validation.
+- Customer booking and photographer acceptance.
+- Payment and confirmation workflow design.
+- Role-based access and booking validation.
+- Server-side marketplace fee calculations.
 
-**Engineering focus:** marketplace logic and secure transactions.
+`Marketplace Engineering` · `Payments` · `RBAC`
 
 </td>
 <td width="50%" valign="top">
@@ -323,7 +326,7 @@ flowchart TB
 - Frontend and backend integration.
 - Quality assurance and testing.
 
-**Engineering focus:** rapid prototyping and full-stack delivery.
+`Rapid Prototyping` · `Full-Stack Engineering`
 
 </td>
 </tr>
@@ -332,45 +335,51 @@ flowchart TB
 <div align="center">
 
 <a href="https://github.com/Aravindan-001?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
 </a>
 
 </div>
 
 ---
 
-## ◈ 05 — ENGINEERING WORKFLOW
+## `05` — AI & Backend Architecture
 
 ```mermaid
 flowchart LR
-    A["💡 Define"] --> B["🏛️ Design"]
-    B --> C["⚙️ Build"]
-    C --> D["🧪 Test"]
-    D --> E["🔐 Secure"]
-    E --> F["📦 Containerize"]
-    F --> G["🚀 Deploy"]
-    G --> H["📈 Improve"]
+    U(["👤 User"]) --> UI["🖥️ Web / Mobile"]
+    UI --> API["⚡ Backend API"]
+    API --> AUTH["🔐 Auth & RBAC"]
+    AUTH --> LOGIC["Business Logic"]
 
-    classDef step fill:#0F172A,stroke:#38BDF8,color:#FFFFFF
-    class A,B,C,D,E,F,G,H step
+    LOGIC --> DB[("🗄️ SQL Database")]
+    LOGIC --> AGENT["🤖 AI Agent"]
+
+    AGENT --> RAG["🔎 Retrieval / RAG"]
+    AGENT --> TOOLS["🔌 MCP / Tools"]
+    AGENT --> LLM["🧠 LLM Provider"]
+
+    RAG --> VECTOR[("Vector Storage")]
+    TOOLS --> EXT["External Services"]
+
+    DB --> RESULT["📦 Application Result"]
+    LLM --> RESULT
+    EXT --> RESULT
+    RESULT --> UI
+
+    classDef app fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    classDef ai fill:#4C1D95,stroke:#C4B5FD,color:#FFFFFF
+    classDef data fill:#14532D,stroke:#4ADE80,color:#FFFFFF
+
+    class U,UI,API,AUTH,LOGIC,RESULT app
+    class AGENT,RAG,TOOLS,LLM,EXT ai
+    class DB,VECTOR data
 ```
 
-<div align="center">
-
-| PHASE | ENGINEERING PRIORITY |
-|:---:|:---|
-| `01` | Requirements, architecture and data modelling |
-| `02` | Maintainable backend and frontend implementation |
-| `03` | API contracts, validation and database integrity |
-| `04` | Testing, access control and security checks |
-| `05` | Containerization, CI/CD and deployment |
-| `06` | Monitoring, debugging and iterative improvement |
-
-</div>
+**Design objective:** build applications where APIs, authorization, persistence, AI integrations, and external tools work together through clearly defined boundaries.
 
 ---
 
-## ◈ 06 — CERTIFICATIONS & MILESTONES
+## `06` — Certifications & Learning Milestones
 
 <div align="center">
 
@@ -390,20 +399,20 @@ flowchart LR
 
 ### 🤖 AI & Agent Engineering
 
-- Oracle Agentic AI Foundations 2026
-- OpenAI Responses API & Agents SDK learning module
-- Model Context Protocol (MCP) learning module
-- OCI Enterprise AI learning module
-- Oracle AI Database & Vector Search learning module
+- Oracle Agentic AI Foundations 2026.
+- OpenAI Responses API & Agents SDK learning module.
+- Model Context Protocol (MCP) learning module.
+- OCI Enterprise AI learning module.
+- Oracle AI Database & Vector Search learning module.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ Data & Developer Productivity
 
-- Neo4j Certified Professional
-- MongoDB Basics for Students
-- Prompt Engineering with GitHub Copilot
+- Neo4j Certified Professional.
+- MongoDB Basics for Students.
+- Prompt Engineering with GitHub Copilot.
 
 </td>
 </tr>
@@ -411,99 +420,58 @@ flowchart LR
 
 ---
 
-## ◈ 07 — GITHUB ANALYTICS
+## `07` — GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Aravindan-001">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub contribution statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Aravindan-001">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Programming language distribution"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Language distribution"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="85%" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aravindan-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## ◈ 08 — CURRENT ENGINEERING DIRECTION
+## `08` — Current Engineering Direction
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚙️
-
-**BACKEND**
-
-API design  
-System architecture  
-Authentication
-
-</td>
-<td align="center" width="25%">
-
-### 🤖
-
-**AI SYSTEMS**
-
-Agentic workflows  
-RAG pipelines  
-Tool integrations
-
-</td>
-<td align="center" width="25%">
-
-### ☁️
-
-**CLOUD**
-
-Docker  
-CI/CD  
-Deployment
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️
-
-**DATA**
-
-SQL databases  
-Vector search  
-Graph databases
-
-</td>
-</tr>
-</table>
+| TRACK | DIRECTION |
+|:---|:---|
+| ⚙️ Backend | APIs, authentication, application architecture |
+| 🤖 AI Engineering | Agents, RAG, MCP, LLM integrations |
+| ☁️ Cloud & DevOps | AWS fundamentals, Docker, CI/CD, deployment |
+| 🗄️ Data Engineering | Databases, vector search, graph technologies |
+| 🔐 Security | Access control, validation, secure workflows |
 
 </div>
 
 ---
 
-## ◈ 09 — CONNECT & EXPLORE
+## `09` — Connect
 
 <div align="center">
 
-**Interested in software engineering, AI-powered applications, and cloud infrastructure.**
+**Engineering intelligent software. Automating workflows. Deploying useful products.**
 
 <a href="https://github.com/Aravindan-001">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
@@ -512,10 +480,10 @@ Graph databases
 
 <br/><br/>
 
-### `BUILD → AUTOMATE → SECURE → DEPLOY`
+### `DESIGN  →  BUILD  →  SECURE  →  AUTOMATE  →  DEPLOY`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=140&section=footer" width="100%" alt="Profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:1D4ED8,100:020617&section=footer" alt="Footer banner"/>
 
 </div>
 
-<!-- End of README -->
+<!-- END OF PROFILE README -->
