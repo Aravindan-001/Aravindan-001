@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Aravindan-001">
   <img src="https://img.shields.io/badge/GitHub-Aravindan--001-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/DOMAIN-Backend%20Engineering-2563EB?style=for-the-badge" alt="Backend engineering"/>
