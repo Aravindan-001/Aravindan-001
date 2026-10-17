@@ -1,263 +1,285 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0F172A,100:164E63&text=ARAVINDAN%20S&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=ENGINEERING%20SYSTEMS%20%E2%80%A2%20INTELLIGENT%20APPLICATIONS%20%E2%80%A2%20CLOUD&descAlignY=58&descSize=13" alt="Aravindan S engineering portfolio"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080C12,55:101720,100:164E63&text=ARAVINDAN%20S&fontSize=52&fontColor=EAFBFF&fontAlignY=36&desc=BACKEND%20SYSTEMS%20%2F%2F%20AI%20ENGINEERING%20%2F%2F%20CLOUD%20INFRASTRUCTURE&descAlignY=59&descSize=12" alt="Aravindan S engineering banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=820&lines=Backend+Engineering+%2F%2F+Reliable+APIs;AI+Engineering+%2F%2F+Agents+%26+RAG;Cloud+Engineering+%2F%2F+Infrastructure+%26+Deployment;Security+Engineering+%2F%2F+Access+%26+Data;Product+Engineering+%2F%2F+Nexora+Labs" alt="Engineering focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+Designing+reliable+backend+systems;>+Building+AI+agents+and+RAG+workflows;>+Engineering+secure+data+and+API+layers;>+Automating+cloud+and+deployment+workflows;>+Building+products+with+Nexora+Labs" alt="Terminal-style engineering introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Backend%20%7C%20AI%20%7C%20Cloud-0F172A?style=for-the-badge&labelColor=020617" alt="Engineering focus"/>
-<img src="https://img.shields.io/badge/BUILD-Products%20%26%20Systems-164E63?style=for-the-badge&labelColor=020617" alt="Product engineering"/>
-<img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/DOMAIN-BACKEND-101720?style=flat-square&labelColor=080C12" alt="Backend engineering"/>
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%26%20AGENTS-101720?style=flat-square&labelColor=080C12" alt="AI engineering"/>
+<img src="https://img.shields.io/badge/DOMAIN-CLOUD%20%26%20DEVOPS-101720?style=flat-square&labelColor=080C12" alt="Cloud and DevOps"/>
+<img src="https://img.shields.io/badge/DOMAIN-SECURITY-101720?style=flat-square&labelColor=080C12" alt="Security engineering"/>
 
 <br/><br/>
 
-<a href="https://github.com/Aravindan-001"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
-<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/Nexora%20Labs-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Nexora Labs"/></a>
-<a href="https://wa.me/917339559072"><img src="https://img.shields.io/badge/Project%20Enquiries-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/Aravindan-001"><img src="https://img.shields.io/badge/GITHUB-SOURCE%20CODE-EAFBFF?style=for-the-badge&logo=github&logoColor=080C12" alt="GitHub"/></a>
+<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/NEXORA%20LABS-0A0F14?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Nexora Labs"/></a>
+<a href="https://wa.me/917339559072"><img src="https://img.shields.io/badge/PROJECT%20ENQUIRIES-0A0F14?style=for-the-badge&logo=whatsapp&logoColor=A3FF6F" alt="Project enquiries"/></a>
 
-**Information Technology Student · Backend Engineering · AI Agents · Cloud & DevOps**
+<br/><br/>
 
-*Building practical software with an emphasis on architecture, security, testing and deployment.*
+<img src="https://komarev.com/ghpvc/?username=Aravindan-001&style=flat-square&color=00A6B8&label=PROFILE+ACCESS" alt="Profile views"/>
+
+**Information Technology Student · Software Engineering · AI Systems**
+
+`BUILD` → `TEST` → `SECURE` → `DEPLOY` → `IMPROVE`
 
 </div>
 
 ---
 
-<div align="center">
-
-### ENGINEERING NAVIGATION
-
-[01 · Profile](#01--engineering-profile) · [02 · Tech Stack](#02--technology-universe) · [03 · Projects](#03--featured-projects) · [04 · Architecture](#04--system-design) · [05 · Contributions](#05--contribution-command-center) · [06 · Analytics](#06--github-analytics) · [07 · Credentials](#07--certifications--learning) · [08 · Connect](#08--connect)
-
-</div>
-
-## `01` / ENGINEERING PROFILE
+## `00` / SYSTEM OVERVIEW
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-### Building beyond the interface
+### Engineering profile
 
-I'm an Information Technology student interested in designing and developing reliable software systems across backend engineering, AI applications and cloud infrastructure.
+I focus on the engineering behind applications: API architecture, database systems, AI-powered workflows, access control, automated testing and deployment.
 
-My work spans APIs, database-driven applications, mobile workflows, AI-assisted systems and deployment-oriented engineering.
+My projects span backend services, mobile applications, business workflows and AI-oriented product development.
 
-**Primary engineering interests**
+**Primary domains**
 
-- Backend APIs and service architecture
-- Agentic AI, RAG, vector search and MCP
-- Database design, integrity and access control
+- Backend and API engineering
+- Agentic AI, RAG and MCP
+- Relational, graph and vector databases
 - Cloud infrastructure and DevOps
-- Application security and automated testing
-- SaaS and product engineering
+- Application security and quality engineering
+- Product development through Nexora Labs
 
 </td>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-### Engineering identity
+### Engineering index
 
-| Attribute | Focus |
+| System | Focus |
 |---|---|
-| Core | Backend |
-| Intelligence | AI Agents |
-| Infrastructure | Cloud & DevOps |
-| Data | SQL & Vector Search |
-| Quality | Testing & Security |
-| Products | Nexora Labs |
+| `SYS-01` | Backend APIs |
+| `SYS-02` | AI & agent workflows |
+| `SYS-03` | Data engineering |
+| `SYS-04` | Cloud & deployment |
+| `SYS-05` | Security & QA |
+| `SYS-06` | Product engineering |
 
 </td>
 </tr>
 </table>
 
 ```python
-class EngineeringMindset:
-    domains = [
-        "Backend Systems",
+class Aravindan:
+    role = "Information Technology Student"
+
+    engineering_domains = [
+        "Backend Engineering",
         "AI & Agent Engineering",
         "Cloud & DevOps",
         "Application Security",
     ]
 
-    principles = [
-        "Design before implementation",
-        "Validate before trusting",
-        "Test before deployment",
-        "Document what is implemented",
-    ]
+    philosophy = (
+        "Build reliable systems, "
+        "verify behaviour, "
+        "secure critical boundaries."
+    )
 ```
 
-> Build useful systems. Make them reliable. Secure them by design.
-
 ---
 
-## `02` / TECHNOLOGY UNIVERSE
+## `01` / TECHNOLOGY MATRIX
+
+<sub>TECHNOLOGY MAP · ORGANIZED BY ENGINEERING LAYER</sub>
+
+### A — Languages & runtime
 
 <div align="center">
 
-### `01` — Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,php,c&theme=dark" alt="Python, JavaScript, TypeScript, Dart, PHP and C"/>
-
-### `02` — Web & Mobile Engineering
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter&theme=dark" alt="Next.js, React, Tailwind CSS and Flutter"/>
-
-### `03` — Backend Engineering
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel&theme=dark" alt="FastAPI, Node.js and Laravel"/>
-
-### `04` — Databases & Data Platforms
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,redis,neo4j&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Redis and Neo4j"/>
-
-### `05` — Cloud, DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,cloudflare,linux,githubactions&theme=dark" alt="AWS, Docker, Nginx, Cloudflare, Linux and GitHub Actions"/>
-
-### `06` — Development & Quality Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Git, GitHub, VS Code, Postman and Figma"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,php,c&theme=dark" alt="Programming languages"/>
 
 </div>
 
-### AI, Agents, Data & Automation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LANGGRAPH-2563EB?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/MCP-475569?style=for-the-badge" alt="Model Context Protocol"/>
-<img src="https://img.shields.io/badge/PGVECTOR-336791?style=for-the-badge" alt="pgvector"/>
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-</div>
-
-### Stack at a glance
-
-| Engineering domain | Technologies |
+| Layer | Technologies |
 |---|---|
-| Languages | Python, JavaScript, TypeScript, Dart, PHP, C |
-| Frontend | Next.js, React, Tailwind CSS |
+| Programming | Python, JavaScript, TypeScript, Dart, PHP, C |
+| Web | Next.js, React, Tailwind CSS |
 | Mobile | Flutter |
 | Backend | FastAPI, Node.js, Laravel |
-| Relational data | PostgreSQL, MySQL |
-| NoSQL & platform services | MongoDB, Firebase, Supabase, Redis |
-| Graph & vector data | Neo4j, pgvector |
-| AI engineering | LangChain, LangGraph, RAG, MCP |
-| Cloud & infrastructure | AWS, Docker, Nginx, Cloudflare |
-| Automation & QA | n8n, GitHub Actions, Playwright, Postman |
-| Analytics | Power BI |
 
-<sub>This matrix describes the broader toolkit across projects and exploration. It does not imply that every technology is used in every application or that all tools have equal proficiency.</sub>
+### B — Data infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,neo4j&theme=dark" alt="Databases and data platforms"/>
+
+</div>
+
+| Data layer | Technologies |
+|---|---|
+| Relational | PostgreSQL, MySQL |
+| Document / platform services | MongoDB, Firebase, Supabase |
+| Caching | Redis |
+| Graph | Neo4j |
+| Vector search | pgvector |
+| Data concepts | Schema design, indexing, access policies, data integrity |
+
+### C — AI & agent systems
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LANGCHAIN-101720?style=for-the-badge&logo=langchain&logoColor=00E5FF" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-101720?style=for-the-badge&logoColor=00E5FF" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-101720?style=for-the-badge&logoColor=00E5FF" alt="Retrieval augmented generation"/>
+<img src="https://img.shields.io/badge/MCP-101720?style=for-the-badge&logoColor=00E5FF" alt="Model Context Protocol"/>
+
+</div>
+
+| System component | Engineering focus |
+|---|---|
+| Retrieval | Embeddings, context retrieval and vector search |
+| Agents | Tool calling and multi-step workflows |
+| Integration | Model APIs and external tools |
+| Protocols | Model Context Protocol |
+| Orchestration | LangGraph-oriented workflows |
+
+### D — Cloud & infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,cloudflare,linux,githubactions,git,github&theme=dark" alt="Cloud and infrastructure stack"/>
+
+</div>
+
+| Infrastructure layer | Technologies |
+|---|---|
+| Cloud | AWS |
+| Containers | Docker |
+| Web infrastructure | Nginx, Cloudflare |
+| Version control | Git, GitHub |
+| CI/CD | GitHub Actions |
+| Automation | n8n, workflow integrations |
+
+### E — Testing & engineering tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma&theme=dark" alt="Development tools"/>
+
+</div>
+
+`PYTEST` · `PLAYWRIGHT` · `API TESTING` · `REGRESSION TESTING` · `BUILD VALIDATION`
+
+<sub>Stack entries describe technologies used across projects and technical exploration; inclusion does not imply equal proficiency or usage in every project.</sub>
 
 ---
 
-## `03` / FEATURED PROJECTS
+## `02` / FEATURED SYSTEMS
+
+<sub>SELECTED PROJECTS · ARCHITECTURE · IMPLEMENTATION</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 NORA
+### `SYS-01` NORA
 
 **AI Operations & Knowledge Platform**
 
 `FASTAPI` `POSTGRESQL` `PGVECTOR` `LANGGRAPH` `SVELTEKIT`
 
-- Layered backend architecture
-- Client, lead, project and task modules
-- Vector-enabled knowledge retrieval
-- AI workflow design
+- Layered router, service and repository architecture.
+- Client, lead, project and task modules.
+- Vector-enabled knowledge retrieval.
+- AI workflow design.
 
-**Engineering focus:** Backend architecture, AI and data systems.
+**Engineering focus:** Backend architecture, data and AI workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### 📸 PYP
+### `SYS-02` PYP
 
 **Pick Your Photographer Marketplace**
 
-`FLUTTER` `DART` `SUPABASE` `FIREBASE`
+`FLUTTER` `SUPABASE` `POSTGRESQL` `FIREBASE`
 
-- Photographer booking lifecycle
-- Acceptance and confirmation workflows
-- Payment and commission state handling
-- Access control, invoices and storage security
+- Photographer booking and acceptance lifecycle.
+- Confirmation and payment-state handling.
+- Commission calculation and invoice workflows.
+- Role-based access and portfolio storage policies.
+- Security and regression tests.
 
-**Engineering focus:** Mobile, marketplace workflows and security.
+**Engineering focus:** Mobile, transactional workflows and security.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💎 Svaraa Jewels
+### `SYS-03` Svaraa Jewels
 
 **E-Commerce Engineering**
 
-`LARAVEL` `PHP` `MYSQL` `REDIS` `DOCKER` `NGINX`
+`LARAVEL` `MYSQL` `REDIS` `DOCKER` `NGINX`
 
-- Backend and database integration
-- Administrative workflows with Filament
-- Container and deployment configuration
-- Infrastructure-oriented development
+- Backend and database integration.
+- Administrative workflows with Filament.
+- Infrastructure configuration.
+- Deployment-oriented development.
 
-**Engineering focus:** Backend, infrastructure and deployment.
+**Engineering focus:** Backend and infrastructure.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 iCore ESS
+### `SYS-04` iCore ESS
 
 **Employee Self-Service Application**
 
-`FLUTTER` `DART` `SOAP/XML` `FIREBASE`
+`FLUTTER` `SOAP/XML` `FIREBASE`
 
-- Mobile application workflows
-- SOAP/XML service integration
-- Firebase integration
+- Mobile application workflows.
+- SOAP/XML integration.
+- Firebase-connected application functionality.
 
-[Explore repository →](https://github.com/Aravindan-001/icore-ess)
+[**View source →**](https://github.com/Aravindan-001/icore-ess)
 
-**Engineering focus:** Mobile engineering and enterprise integration.
+**Engineering focus:** Mobile and enterprise integration.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Client CRM
+### `SYS-05` Client CRM
 
 **Sales & Lead Management**
 
 `NEXT.JS` `REACT` `TYPESCRIPT` `PLAYWRIGHT`
 
-- Lead management and contact workflows
-- Responsive UI development
-- Browser-based regression testing
-- Type checking and production-build validation
+- Lead and contact management.
+- Responsive business interface.
+- Browser-based regression testing.
+- Build and type-check validation.
 
-**Engineering focus:** Full-stack development and QA.
+**Engineering focus:** Full-stack engineering and QA.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 PerceptionIQ
+### `SYS-06` PerceptionIQ
 
-**Hackathon Project**
+**Hackathon Engineering**
 
-`PRODUCT ENGINEERING` `INTEGRATION` `QA`
+`AI PRODUCT` `INTEGRATION` `QA`
 
-- AI-oriented product prototyping
-- Backend/frontend integration
-- Test-driven troubleshooting
-- External data integration constraints
+- Rapid product prototyping.
+- Backend and frontend integration.
+- Test and integration troubleshooting.
+- External data-source constraints.
 
-**Engineering focus:** Rapid prototyping and integration.
+**Engineering focus:** Product engineering and integration.
 
 </td>
 </tr>
@@ -265,197 +287,172 @@ class EngineeringMindset:
 
 <div align="center">
 
-### 🚀 Nexora Labs
+### `ORG-01` / NEXORA LABS
 
 **Student-led Product Engineering Studio**
 
-Web Applications · Mobile Apps · SaaS · AI · Agentic AI · Automation
+`WEB` · `MOBILE` · `SAAS` · `AGENTIC AI` · `AUTOMATION`
 
-<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/FOLLOW-NEXORA%20LABS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Nexora Labs"/></a>
-<a href="https://github.com/Aravindan-001?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/></a>
+<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/NEXORA%20LABS-OPEN%20PROFILE-101720?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Nexora Labs Instagram"/></a>
+<a href="https://github.com/Aravindan-001?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-ALL%20REPOSITORIES-101720?style=for-the-badge&logo=github&logoColor=00E5FF" alt="All repositories"/></a>
 
 </div>
 
 ---
 
-## `04` / SYSTEM DESIGN
+## `03` / ARCHITECTURE LAB
 
-### Backend architecture
+### Backend request pipeline
 
 ```mermaid
 flowchart TD
-    A["Web / Mobile Client"] --> B["API Layer"]
-    B --> C["Authentication & Authorization"]
-    C --> D["Service Layer"]
-    D --> E["Validation & Business Rules"]
-    E --> F["Repository / Data Access"]
-    F --> G[("Relational Database")]
-    D --> H["External Integrations"]
-    D --> I["Cache / Background Jobs"]
+    A["CLIENT"] --> B["API GATEWAY / ROUTER"]
+    B --> C["AUTHENTICATION & RBAC"]
+    C --> D["BUSINESS SERVICE"]
+    D --> E["VALIDATION & DOMAIN RULES"]
+    E --> F["REPOSITORY LAYER"]
+    F --> G[("POSTGRESQL / MYSQL")]
+    D --> H["EXTERNAL INTEGRATIONS"]
+    D --> I["CACHE / ASYNC TASKS"]
 ```
 
-### Agentic AI workflow
+### Agent execution pipeline
 
 ```mermaid
 flowchart TD
-    A["User Request"] --> B["Application API"]
-    B --> C["Retrieve Relevant Context"]
-    C --> D["LLM / Agent"]
-    D --> E{"Tool Needed?"}
-    E -- Yes --> F["Tool / API"]
-    F --> G["Validate Result"]
+    A["USER INPUT"] --> B["APPLICATION API"]
+    B --> C["CONTEXT RETRIEVAL"]
+    C --> D["LLM / AGENT"]
+    D --> E{"TOOL REQUIRED?"}
+    E -- YES --> F["TOOL EXECUTION"]
+    F --> G["RESULT VALIDATION"]
     G --> D
-    E -- No --> H["Generate Response"]
-    H --> I["Return to User"]
+    E -- NO --> H["RESPONSE GENERATION"]
+    H --> I["CLIENT RESPONSE"]
 ```
 
 ### Engineering quality gates
 
-<table>
-<tr>
-<td align="center" width="25%">
+| Stage | Verification |
+|---|---|
+| `01 / DESIGN` | Architecture, data models and API contracts |
+| `02 / SECURITY` | Input validation, permissions and database policies |
+| `03 / TEST` | Unit, integration and regression tests |
+| `04 / RELEASE` | Build validation, environment configuration and deployment readiness |
 
-<img src="https://img.shields.io/badge/01-DESIGN-0F172A?style=for-the-badge" alt="Design"/>
-
-**Architecture**
-
-Layering, contracts and data models
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/02-SECURITY-164E63?style=for-the-badge" alt="Security"/>
-
-**Protection**
-
-Validation, permissions and policies
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/03-TESTING-1D4ED8?style=for-the-badge" alt="Testing"/>
-
-**Verification**
-
-Regression and integration tests
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/04-DEPLOY-334155?style=for-the-badge" alt="Deployment"/>
-
-**Delivery**
-
-Configuration and build validation
-
-</td>
-</tr>
-</table>
-
-<sub>Architecture diagrams illustrate common design patterns and are conceptual, not a claim that every featured project implements every component.</sub>
+<sub>These diagrams represent general engineering patterns, not a claim that all components exist in each project.</sub>
 
 ---
 
-## `05` / CONTRIBUTION COMMAND CENTER
+## `04` / CONTRIBUTION INTELLIGENCE
+
+<sub>GITHUB ACTIVITY · CONTRIBUTION HISTORY · REPOSITORY COMPOSITION</sub>
 
 <div align="center">
 
-### Your coding activity, visualized
+### Contribution heatmap
 
-<img width="100%" src="https://ghchart.rshah.org/0EA5E9/Aravindan-001" alt="GitHub contribution calendar for Aravindan-001"/>
+<img width="100%" src="https://ghchart.rshah.org/00E5FF/Aravindan-001" alt="GitHub contribution calendar"/>
 
-<sub>Contribution calendar · Activity shown according to GitHub's contribution data.</sub>
+<br/>
 
-<br/><br/>
+### Developer statistics
 
 <a href="https://github.com/Aravindan-001">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aravindan-001&show_icons=true&hide_border=true&theme=transparent&bg_color=080C12&title_color=00E5FF&text_color=CBD5E1&icon_color=A3FF6F&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/Aravindan-001">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages by repository composition"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan-001&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=080C12&title_color=00E5FF&text_color=CBD5E1" alt="Top languages by repository composition"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Aravindan-001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+### Contribution consistency
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Aravindan-001&hide_border=true&background=080C12&ring=00E5FF&fire=A3FF6F&currStreakLabel=00E5FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+### Activity timeline
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindan-001&bg_color=080C12&color=CBD5E1&line=00E5FF&point=A3FF6F&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" alt="GitHub activity graph"/>
 
 </div>
+
+<sub>These charts are rendered by external services and may be temporarily unavailable. Contribution totals depend on GitHub attribution and visibility; language distribution reflects repository code, not skill level.</sub>
 
 ### Contribution snake
 
-Once the GitHub Actions workflow is configured and publishes both SVGs to the `output` branch, activate the animated contribution snake:
+Configure a GitHub Actions workflow to publish generated SVGs to the `output` branch before enabling the animation.
 
-<div align="center">
+```html
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aravindan-001/Aravindan-001/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aravindan-001/Aravindan-001/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Aravindan-001/Aravindan-001/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+```
 
-<img width="100%" src="https://raw.githubusercontent.com/Aravindan-001/Aravindan-001/output/github-contribution-grid-snake.svg" alt="Contribution snake animation, available after workflow setup"/>
-
-</div>
-
-**Setup checklist**
-
-- [ ] Configure a contribution-snake GitHub Actions workflow.
-- [ ] Verify the workflow completes successfully.
-- [ ] Confirm the generated SVG files exist in the `output` branch.
-- [ ] Enable the dark/light SVG block in the README if both versions are available.
-
-Workflow reference: [Platane/snk](https://github.com/Platane/snk)
-
-<sub>Stats and graphs depend on third-party services. They can be delayed, temporarily unavailable, or affected by repository visibility and contribution attribution. Language charts represent repository composition, not skill level.</sub>
+Workflow source: [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
-## `06` / GITHUB ANALYTICS & ENGINEERING SIGNALS
+## `05` / ENGINEERING PRINCIPLES
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Repository engineering
+**01 — Separation of concerns**
 
-- Readable project documentation
-- Clear folder and module boundaries
-- API and database design
-- Integration testing
-- Deployment configuration
-- Security-aware implementation
+Keep routing, business logic and persistence independently organised.
+
+**02 — Security boundaries**
+
+Enforce authentication, authorisation and validation at the correct layer.
+
+**03 — Data integrity**
+
+Protect important state transitions and enforce appropriate database constraints.
 
 </td>
 <td width="50%" valign="top">
 
-### Contribution quality
+**04 — Verifiable behaviour**
 
-- Consistent and descriptive commits
-- Documented architectural decisions
-- Reproducible development setup
-- Regression-test coverage
-- Explicit limitations and setup requirements
-- Maintainable project structure
+Use tests to check critical business and security rules.
+
+**05 — Deployment awareness**
+
+Treat configuration, migrations and secrets as part of the engineering process.
+
+**06 — Honest documentation**
+
+Separate implemented features from planned work and known limitations.
 
 </td>
 </tr>
 </table>
 
-### Explore the actual source
-
-<div align="center">
-
-<a href="https://github.com/Aravindan-001?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Browse%20Source%20Code-0F172A?style=for-the-badge&logo=github" alt="Browse repositories"/></a>
-
-</div>
-
 ---
 
-## `07` / CERTIFICATIONS & LEARNING
+## `06` / CERTIFICATIONS & LEARNING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏅 Neo4j
+### Neo4j
 
 **Neo4j Certified Professional**
 
@@ -464,7 +461,7 @@ Graph database concepts and graph-based data modelling.
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Oracle
+### Oracle
 
 **Oracle Agentic AI Foundations 2026**
 
@@ -473,9 +470,9 @@ Completed learning covering agentic AI, MCP, OpenAI Responses API and Agents SDK
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-### ☁️ AWS Skill Builder
+### AWS Skill Builder
 
 Cloud fundamentals and AWS service concepts, including compute, load balancing and messaging.
 
@@ -483,28 +480,22 @@ Cloud fundamentals and AWS service concepts, including compute, load balancing a
 </tr>
 </table>
 
-<sub>Completed credentials and learning activities are listed separately from employment and professional experience.</sub>
-
 ---
 
-## `08` / CONNECT & COLLABORATE
+## `07` / CONNECT
 
 <div align="center">
 
-**Have an engineering idea, product concept or collaboration opportunity?**
+**ENGINEER SYSTEMS · EXPLORE IDEAS · BUILD PRODUCTS**
 
-Let's build something useful.
-
-<br/>
-
-<a href="https://github.com/Aravindan-001"><img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/NEXORA%20LABS-Follow%20Our%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Nexora Labs"/></a>
-<a href="https://wa.me/917339559072"><img src="https://img.shields.io/badge/WHATSAPP-Project%20Enquiry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/Aravindan-001"><img src="https://img.shields.io/badge/GITHUB-SOURCE%20CODE-EAFBFF?style=for-the-badge&logo=github&logoColor=080C12" alt="GitHub"/></a>
+<a href="https://www.instagram.com/nexoralabs_tech/"><img src="https://img.shields.io/badge/NEXORA%20LABS-0A0F14?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Nexora Labs"/></a>
+<a href="https://wa.me/917339559072"><img src="https://img.shields.io/badge/WHATSAPP-0A0F14?style=for-the-badge&logo=whatsapp&logoColor=A3FF6F" alt="WhatsApp"/></a>
 
 <br/><br/>
 
-*Design thoughtfully. Build reliably. Keep improving.*
+<sub>DESIGNED FOR RELIABILITY · BUILT WITH PURPOSE · ALWAYS ITERATING</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:164E63,50:0F172A,100:020617" alt="Engineering portfolio footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:164E63,55:101720,100:080C12" alt="Engineering portfolio footer"/>
 
 </div>
